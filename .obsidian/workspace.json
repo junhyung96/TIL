@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "bab4c91ec65848f2",
+        "id": "e6bb958f083c750c",
         "type": "tabs",
         "children": [
           {
-            "id": "4b3ec636fd10f9dc",
+            "id": "6146c8951d615086",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/네트워크/OSI 7계층/6계층 - Presentation.md",
+                "file": "Area/디자인패턴/디자인패턴.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d7873a01f7f4f593",
+            "id": "405109d51f9b043f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/네트워크/용어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7cdacd6426d796d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/Java/Stream.md",
+                "file": "Area/알고리즘/연결리스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/네트워크/용어.md",
+                "file": "Area/알고리즘/연결리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/네트워크/용어.md",
+                "file": "Area/알고리즘/연결리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/네트워크/용어.md"
+                "file": "Area/알고리즘/연결리스트.md"
               }
             }
           }
@@ -171,35 +159,43 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d7873a01f7f4f593",
+  "active": "405109d51f9b043f",
   "lastOpenFiles": [
+    "Area/Git/Git 명령어.md",
+    "Area/알고리즘/연결리스트.md",
+    "Area/알고리즘",
+    "Area/프로그래밍개념/절차적 언어.md",
+    "Area/프로그래밍개념/객체 지향 언어.md",
+    "Area/프로그래밍개념/API.md",
+    "Area/Javascript/DOM.md",
+    "Area/Javascript/변수.md",
+    "Area/프론트/Node.js/NPM 명령어.md",
+    "Area/Javascript",
+    "Area/프론트/Node.js/NPM.md",
+    "Area/디자인패턴/MVC.md",
+    "Area/Git",
+    "Area/React",
+    "Area/디자인패턴/디자인패턴.md",
+    "Area/JIRA/PMS.md",
+    "Area/디자인패턴",
+    "Area/네트워크/OSI 7계층/1계층 - Physical.md",
+    "Area/네트워크/OSI 7계층/2계층 - Data Link.md",
     "Area/네트워크/OSI 7계층/3계층 - Network.md",
     "Area/네트워크/OSI 7계층/5계층 - Session.md",
     "Area/네트워크/OSI 7계층/6계층 - Presentation.md",
-    "Area/네트워크/용어.md",
-    "Area/네트워크/OSI 7계층/1계층 - Physical.md",
-    "Area/네트워크/OSI 7계층/2계층 - Data Link.md",
-    "Area/네트워크/OSI 7계층/4계층 - Transport.md",
     "Area/네트워크/OSI 7계층/7계층 - Application.md",
     "Area/네트워크/네트워크.md",
-    "Area/네트워크/OSI 7계층",
-    "Area/Java/InputStreamReader, OutputStreamWriter.md",
-    "Area/네트워크",
-    "무제 폴더",
-    "Area/Java/InputStream, OutputStream.md",
-    "Area/Java/Stream.md",
-    "Area/Java/입출력.md",
-    "README.md",
-    "Area/Java/빠른 입출력.md",
+    "Area/네트워크/OSI 7계층/4계층 - Transport.md",
+    "Area/클라우드/AWS.md",
+    "Area/클라우드/클라우드 컴퓨팅.md",
     "Area/프로그래밍개념/Buffer.md",
-    "Area/프로그래밍개념",
-    "Area/Java",
-    "Area/Spring/Java Spring.md",
-    "Area/Spring/빌드관리도구(Maven, Gradle).md",
-    "Area/Spring",
-    "Archive",
-    "Resource",
-    "Area",
-    "Project"
+    "Area/네트워크/용어.md",
+    "Area/클라우드",
+    "Area/프론트/Node.js/패키지 설치.md",
+    "Area/프론트/Node.js/버전의 범위.md",
+    "Area/프론트/Node.js",
+    "Area/프론트",
+    "Area/네트워크/OSI 7계층",
+    "Area/네트워크"
   ]
 }
