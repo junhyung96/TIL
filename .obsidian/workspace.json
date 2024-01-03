@@ -159,8 +159,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "405109d51f9b043f",
+  "active": "4425823cb8be97f2",
   "lastOpenFiles": [
+    "알고리즘 문제 풀이/암호문3/암호문3.md",
+    "알고리즘 문제 풀이/암호문3/output.txt",
+    "알고리즘 문제 풀이/암호문3/input.txt",
+    "알고리즘 문제 풀이/output.txt",
+    "알고리즘 문제 풀이/input.txt",
+    "알고리즘 문제 풀이/암호문3/암호문3.py",
+    "알고리즘 문제 풀이/암호문3",
+    "알고리즘 문제 풀이/암호문3.py",
+    "알고리즘 문제 풀이",
+    "알고리즘문제풀이",
     "Area/Git/Git 명령어.md",
     "Area/알고리즘/연결리스트.md",
     "Area/알고리즘",
@@ -170,14 +180,10 @@
     "Area/Javascript/DOM.md",
     "Area/Javascript/변수.md",
     "Area/프론트/Node.js/NPM 명령어.md",
-    "Area/Javascript",
     "Area/프론트/Node.js/NPM.md",
     "Area/디자인패턴/MVC.md",
-    "Area/Git",
-    "Area/React",
     "Area/디자인패턴/디자인패턴.md",
     "Area/JIRA/PMS.md",
-    "Area/디자인패턴",
     "Area/네트워크/OSI 7계층/1계층 - Physical.md",
     "Area/네트워크/OSI 7계층/2계층 - Data Link.md",
     "Area/네트워크/OSI 7계층/3계층 - Network.md",
@@ -190,12 +196,6 @@
     "Area/클라우드/클라우드 컴퓨팅.md",
     "Area/프로그래밍개념/Buffer.md",
     "Area/네트워크/용어.md",
-    "Area/클라우드",
-    "Area/프론트/Node.js/패키지 설치.md",
-    "Area/프론트/Node.js/버전의 범위.md",
-    "Area/프론트/Node.js",
-    "Area/프론트",
-    "Area/네트워크/OSI 7계층",
-    "Area/네트워크"
+    "Area/프론트/Node.js/패키지 설치.md"
   ]
 }
