@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/Java/자바 기초 원리 및 동작.md",
+                "file": "Area/Spring/log.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/Java/자바 기초 원리 및 동작.md",
+                "file": "Area/Spring/log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/Java/자바 기초 원리 및 동작.md",
+                "file": "Area/Spring/log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/Java/자바 기초 원리 및 동작.md"
+                "file": "Area/Spring/log.md"
               }
             }
           }
@@ -148,20 +148,26 @@
   },
   "active": "6146c8951d615086",
   "lastOpenFiles": [
-    "Area/Java/변수.md",
-    "LearnJava/src/variable/Var6.java",
-    "LearnJava/out/production/LearnJava/variable/Var5.class",
-    "LearnJava/out/production/LearnJava/variable/Var4.class",
-    "LearnJava/src/variable/Var5.java",
-    "LearnJava/src/variable/Var4.java",
-    "LearnJava/out/production/LearnJava/variable/Var3.class",
-    "LearnJava/src/variable/Var3.java",
+    "Area/Spring/빌드관리도구(Maven, Gradle).md",
+    "Area/Spring/log.md",
+    "Area/Spring/Java Spring.md",
+    "Area/Spring/어노테이션.md",
+    "Area/Spring/폴더 구조.md",
     "Area/Java/자바 기초 원리 및 동작.md",
-    "LearnJava/out/production/LearnJava/variable/Var2.class",
-    "Area/Java/패키지.md",
-    "LearnJava/src/variable/Var2.java",
-    "LearnJava/out/production/LearnJava/variable/Var1.class",
+    "LearnJava/out/production/LearnJava/variable/ex/VarEx3.class",
+    "LearnJava/src/variable/ex/VarEx3.java",
+    "LearnJava/out/production/LearnJava/variable/ex/VarEx2.class",
+    "LearnJava/out/production/LearnJava/variable/ex/VarEx1Question.class",
+    "LearnJava/out/production/LearnJava/variable/ex",
+    "LearnJava/src/variable/ex/VarEx2.java",
+    "LearnJava/src/variable/ex/VarEx1Question.java",
+    "LearnJava/src/variable/ex",
+    "LearnJava/out/production/LearnJava/variable/VarEx1Question.class",
+    "LearnJava/out/production/LearnJava/variable/Var8.class",
     "Area/Java/주석.md",
+    "Area/Java/변수.md",
+    "Area/Java/리터럴.md",
+    "Area/Java/패키지.md",
     "Area/Java/Intellij.md",
     "Area/Java/빠른 입출력.md",
     "Area/Java/메서드.md",
@@ -177,11 +183,6 @@
     "Area/Javascript/DOM.md",
     "Area/Javascript/변수.md",
     "Area/프론트/Node.js/NPM 명령어.md",
-    "Area/프론트/Node.js/NPM.md",
-    "Area/디자인패턴/MVC.md",
-    "Area/JIRA/PMS.md",
-    "Area/네트워크/OSI 7계층/1계층 - Physical.md",
-    "Area/네트워크/OSI 7계층/2계층 - Data Link.md",
-    "Area/네트워크/OSI 7계층/3계층 - Network.md"
+    "Area/프론트/Node.js/NPM.md"
   ]
 }
