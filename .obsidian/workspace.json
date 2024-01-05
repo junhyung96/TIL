@@ -138,32 +138,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6146c8951d615086",
+  "active": "4425823cb8be97f2",
   "lastOpenFiles": [
+    "hello-spring/build/resources/main/templates/hello.html",
+    "hello-spring/build/classes/java/main/hello/hellospring/controller/HelloController.class",
+    "hello-spring/build/classes/java/main/hello/hellospring/controller",
+    "hello-spring/build/tmp/compileJava/compileTransaction/stash-dir",
+    "hello-spring/build/tmp/compileJava/compileTransaction/backup-dir",
+    "hello-spring/build/tmp/compileJava/compileTransaction",
+    "hello-spring/src/main/resources/templates/hello.html",
+    "hello-spring/src/main/java/hello/hellospring/controller/HelloController.java",
+    "hello-spring/src/main/java/hello/hellospring/controller",
+    "hello-spring/build/resources/main/static/index.html",
+    "hello-spring/src/main/resources/static/index.html",
+    "hello-spring/HELP.md",
     "Area/Spring/빌드관리도구(Maven, Gradle).md",
     "Area/Spring/log.md",
     "Area/Spring/Java Spring.md",
     "Area/Spring/어노테이션.md",
     "Area/Spring/폴더 구조.md",
     "Area/Java/자바 기초 원리 및 동작.md",
-    "LearnJava/out/production/LearnJava/variable/ex/VarEx3.class",
-    "LearnJava/src/variable/ex/VarEx3.java",
-    "LearnJava/out/production/LearnJava/variable/ex/VarEx2.class",
-    "LearnJava/out/production/LearnJava/variable/ex/VarEx1Question.class",
-    "LearnJava/out/production/LearnJava/variable/ex",
-    "LearnJava/src/variable/ex/VarEx2.java",
-    "LearnJava/src/variable/ex/VarEx1Question.java",
-    "LearnJava/src/variable/ex",
-    "LearnJava/out/production/LearnJava/variable/VarEx1Question.class",
-    "LearnJava/out/production/LearnJava/variable/Var8.class",
     "Area/Java/주석.md",
     "Area/Java/변수.md",
     "Area/Java/리터럴.md",
@@ -181,8 +183,6 @@
     "Area/프로그래밍개념/객체 지향 언어.md",
     "Area/프로그래밍개념/API.md",
     "Area/Javascript/DOM.md",
-    "Area/Javascript/변수.md",
-    "Area/프론트/Node.js/NPM 명령어.md",
-    "Area/프론트/Node.js/NPM.md"
+    "Area/Javascript/변수.md"
   ]
 }
