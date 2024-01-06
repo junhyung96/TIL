@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lecture React</title>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <div id="app"></div>
+
+    <script
+      crossorigin
+      src="https://unpkg.com/react@17/umd/react.development.js"
+    >
+      // 리액트 cdn에서 가져왔기 때문에 전역공간에 React 객체가 생성됨
+    </script>
+
+    <script
+      crossorigin
+      src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"
+    >
+      // 리액트 돔
+    </script>
+
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js">
+      // 바벨
+    </script>
+
+    <script
+      type="text/babel"
+      src="js/main.js"
+      data-type="module"
+      data-presets="react"
+    >
+      // 리액트 엘리먼트 = 일반 자바스크립트 객체
+      // const element = React.createElement("h1", null, "Hello world");
+      // console.log('react', element)
+      // 리액트 돔으로 렌더링
+      // ReactDOM.render(element, document.querySelector("#app"));
+
+      // 돔 엘리먼트 = 돔 객체
+      // const p = document.createElement('p')
+      // p.textContent = "hello world~!"
+      // console.log("dom", p)
+      // document.body.appendChild(p)
+
+      // const h1 = document.createElement("h1");
+      // const header = document.createElement("header");
+      // 부모자식 구조를 연결해주나 가시성이 좋지 않음
+      // header.appendChild(h1)
+
+      // document.body.appendChild(header)
+
+      // JSX 사용
+      // const element = <h1>Hello world</h1>
+      // ReactDOM.render(element, document.querySelector("#app"));
+
+      // 외부 파일로 이동
+    </script>
+  </body>
+</html>

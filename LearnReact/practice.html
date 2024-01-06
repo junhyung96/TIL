@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      const state = {
+        _data: "Hello World!",
+      };
+
+      const render = () => {
+        document.body.innerHTML = `<p>${state.data}</p>`;
+      };
+
+      Object.defineProperty(state, "data", {
+        // 이 어트리뷰트에 추가할 때 호출되는 함수
+        get() {
+          console.log("get");
+          return state._data;
+        },
+        // 이 어트리뷰트에 값을 할당할 때 호출되는 함수
+        set(value) {
+          console.log("set");
+          state._data = value;
+          render();
+        },
+      });
+
+      render();
+
+      state.data = "안녕";
+      state.data = "Hello World~"
+    </script>
+  </body>
+</html>

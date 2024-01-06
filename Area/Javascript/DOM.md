@@ -16,3 +16,7 @@ DOM tree
 	</h1>
 </div
 ```
+
+DOM 을 구성하는 요소
+
+DOM Element
