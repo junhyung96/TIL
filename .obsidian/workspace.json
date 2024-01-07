@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프로젝트/프로젝트 주제.md",
+                "file": "Area/React/리액트 컴포넌트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/프로젝트/프로젝트 주제.md",
+                "file": "Area/React/리액트 컴포넌트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/프로젝트/프로젝트 주제.md"
+                "file": "Area/React/리액트 컴포넌트.md"
               }
             }
           }
