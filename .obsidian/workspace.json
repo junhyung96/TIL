@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/Git/Git 명령어.md",
+                "file": "Area/프로젝트/아이디어.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/Git/Git 명령어.md",
+                "file": "Area/프로젝트/아이디어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/Git/Git 명령어.md",
+                "file": "Area/프로젝트/아이디어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/Git/Git 명령어.md"
+                "file": "Area/프로젝트/아이디어.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "bcf12fe5a473a12c",
   "lastOpenFiles": [
-    "Area/프로젝트/웹 큐레이팅.md",
+    "알고리즘 문제 풀이/BOJ/멀티탭_스케줄링.py",
+    "Area/프로젝트/악기 연주.md",
+    "Area/Git/Git 명령어.md",
     "Area/프로젝트/아이디어.md",
+    "Area/프로젝트/프로젝트 주제.md",
+    "Area/프로젝트/메모.md",
+    "Area/프로젝트/웹 큐레이팅.md",
     "Area/프로젝트/Atomic Design.md",
     "Area/프로젝트/Docker.md",
     "Area/프로젝트/WebRTC.md",
@@ -159,9 +164,6 @@
     "Area/프로젝트/열품타.md",
     "Area/프로젝트/영상일기.md",
     "Area/프로젝트/진행 순서.md",
-    "Area/프로젝트/프로젝트 주제.md",
-    "Area/프로젝트/악기 연주.md",
-    "Area/프로젝트/메모.md",
     "Area/프로젝트/사용되는 기술.md",
     "Area/프로젝트/WebSocket.md",
     "Area/프로젝트/비대면 수산물 경매 시스템.md",
@@ -174,7 +176,6 @@
     "Area/Node.js/유의적 버전.md",
     "Area/Node.js/버전의 범위.md",
     "Area/JIRA/PMS.md",
-    "Area/Java/빠른 입출력.md",
     "알고리즘 문제 풀이/BOJ/주지수.py",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java",
