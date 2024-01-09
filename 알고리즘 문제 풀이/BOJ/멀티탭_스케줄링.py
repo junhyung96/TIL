@@ -37,3 +37,4 @@ for item in schedule:
         for j in range(N):
             if schedule[i] == current_plugs[j]:
                 repeated_item_idx[j] = i
+                break

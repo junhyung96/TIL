@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프로젝트/아이디어.md",
+                "file": "Area/프로젝트/메모.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프로젝트/아이디어.md",
+                "file": "Area/프로젝트/메모.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/프로젝트/아이디어.md",
+                "file": "Area/프로젝트/메모.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/프로젝트/아이디어.md"
+                "file": "Area/프로젝트/메모.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "bcf12fe5a473a12c",
   "lastOpenFiles": [
+    "Area/프로젝트/아이디어.md",
     "알고리즘 문제 풀이/BOJ/멀티탭_스케줄링.py",
     "Area/프로젝트/악기 연주.md",
     "Area/Git/Git 명령어.md",
-    "Area/프로젝트/아이디어.md",
     "Area/프로젝트/프로젝트 주제.md",
     "Area/프로젝트/메모.md",
     "Area/프로젝트/웹 큐레이팅.md",
@@ -185,7 +185,6 @@
     "Area/기타",
     "Area/프로젝트",
     "Area/React",
-    "LearnReact/style.css",
     "LearnReact/node_modules/serve-index/public/icons/page_world.png",
     "LearnReact/node_modules/serve-index/public/icons/page_word.png",
     "LearnReact/node_modules/serve-index/public/icons/page_white_wrench.png",
