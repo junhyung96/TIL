@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d4850ce1161ce438",
+        "id": "73579d9dd33c028b",
         "type": "tabs",
         "children": [
           {
-            "id": "bcf12fe5a473a12c",
+            "id": "2e2aa153e1daf992",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/프로젝트/메모.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "625d2063fbf2f3c3",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프로젝트/메모.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/프로젝트/메모.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Area/프로젝트/메모.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,20 +139,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcf12fe5a473a12c",
+  "active": "2e2aa153e1daf992",
   "lastOpenFiles": [
+    "Area/프로그래밍개념/Untitled.md",
+    "Area/프로젝트/WebRTC.md",
+    "Area/프로젝트/평가.md",
+    "Area/프로젝트/REST API.md",
+    "Area/프로젝트/Pasted image 20240106203304.png",
+    "Area/프로젝트/메모.md",
     "Area/프로젝트/아이디어.md",
     "알고리즘 문제 풀이/BOJ/멀티탭_스케줄링.py",
     "Area/프로젝트/악기 연주.md",
     "Area/Git/Git 명령어.md",
     "Area/프로젝트/프로젝트 주제.md",
-    "Area/프로젝트/메모.md",
     "Area/프로젝트/웹 큐레이팅.md",
     "Area/프로젝트/Atomic Design.md",
     "Area/프로젝트/Docker.md",
-    "Area/프로젝트/WebRTC.md",
-    "Area/프로젝트/REST API.md",
-    "Area/프로젝트/Pasted image 20240106203304.png",
     "Area/프로젝트/CI_CD.md",
     "Area/프로젝트/열품타.md",
     "Area/프로젝트/영상일기.md",
@@ -175,7 +170,6 @@
     "Area/Node.js/패키지 설치.md",
     "Area/Node.js/유의적 버전.md",
     "Area/Node.js/버전의 범위.md",
-    "Area/JIRA/PMS.md",
     "알고리즘 문제 풀이/BOJ/주지수.py",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java",
