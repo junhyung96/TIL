@@ -17,24 +17,40 @@
 
 import sys
 input = sys.stdin.readline 
+INF = int(1e9)
 
 N, K = map(int, input().split()) # 멀티탭 플러그 수, 전기 용품 사용 수
 schedule = list(map(int, input().split()))
 
-current_idx = 0
+number_of_plugs = len(schedule)
 current_plugs = [0] * N
-repeated_item_idx = [0] * N
-
-# 현재 사용중인 기기번호를 저장해두고 
+# 현재 사용중인 콘센트 구멍마다 플러그번호를 저장해두고 
+change_count = 0
 # 반복되는지 반복되면 몇번째에 사용될건지 저장해두고
 # 제일 나중에 사용되거나 재사용되지않는 플러그를 뽑고 거기에 다음 거 사용하기
-for item in schedule:
-    if current_idx < N:
-        current_plugs[current_idx] = item
-        current_idx += 1
+used = 0
+
+for idx in range(number_of_plugs):
+    item = schedule[idx]
+
+    if item in current_plugs:
         continue
-    for i in range(current_idx, N):
-        for j in range(N):
+    
+    if used < N:
+        current_plugs[current_plugs.index(0)] = item
+        used += 1
+        continue
+    
+    repeated_item_idx = [INF] * N
+    for j in range(N):
+        for i in range(idx+1, len(schedule)):
             if schedule[i] == current_plugs[j]:
                 repeated_item_idx[j] = i
                 break
+    next_item = max(repeated_item_idx)
+    change_plug_index = repeated_item_idx.index(next_item)
+    current_plugs[change_plug_index] = item
+    change_count += 1
+
+print(change_count)
+     
