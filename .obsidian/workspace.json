@@ -11,8 +11,12 @@
             "id": "2e2aa153e1daf992",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Area/프로젝트/자신있게 말하기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Area/프로젝트/자신있게 말하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Area/프로젝트/자신있게 말하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Area/프로젝트/자신있게 말하기.md"
+              }
             }
           }
         ]
@@ -131,45 +139,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "2e2aa153e1daf992",
   "lastOpenFiles": [
+    "Area/프로젝트/진행 순서.md",
+    "Area/기타/UN 지속가능한 발전 목표 17가지.md",
+    "Area/프로젝트/아이디어.md",
+    "Area/프로젝트/사용되는 기술.md",
+    "Area/프로젝트/메모.md",
+    "Area/프로젝트/자신있게 말하기.md",
+    "Area/프로젝트/아이디어 구상.md",
+    "Area/프로젝트/프로젝트 주제.md",
+    "알고리즘 문제 풀이/BOJ/도로_위의_표지판.py",
     "Area/프로그래밍개념/Untitled.md",
     "Area/프로젝트/WebRTC.md",
     "Area/프로젝트/평가.md",
     "Area/프로젝트/REST API.md",
     "Area/프로젝트/Pasted image 20240106203304.png",
-    "Area/프로젝트/메모.md",
-    "Area/프로젝트/아이디어.md",
     "알고리즘 문제 풀이/BOJ/멀티탭_스케줄링.py",
     "Area/프로젝트/악기 연주.md",
     "Area/Git/Git 명령어.md",
-    "Area/프로젝트/프로젝트 주제.md",
     "Area/프로젝트/웹 큐레이팅.md",
     "Area/프로젝트/Atomic Design.md",
     "Area/프로젝트/Docker.md",
     "Area/프로젝트/CI_CD.md",
     "Area/프로젝트/열품타.md",
     "Area/프로젝트/영상일기.md",
-    "Area/프로젝트/진행 순서.md",
-    "Area/프로젝트/사용되는 기술.md",
     "Area/프로젝트/WebSocket.md",
     "Area/프로젝트/비대면 수산물 경매 시스템.md",
-    "Area/기타/UN 지속가능한 발전 목표 17가지.md",
     "알고리즘 문제 풀이/BOJ/바나나나빠나나.py",
     "Area/Node.js/NPM.md",
     "Area/Node.js/프로젝트 초기화.md",
     "Area/Node.js/프로젝트 명령어.md",
     "Area/Node.js/패키지 설치.md",
-    "Area/Node.js/유의적 버전.md",
-    "Area/Node.js/버전의 범위.md",
     "알고리즘 문제 풀이/BOJ/주지수.py",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java",
@@ -178,7 +187,6 @@
     "무제 파일.canvas",
     "Area/기타",
     "Area/프로젝트",
-    "Area/React",
     "LearnReact/node_modules/serve-index/public/icons/page_world.png",
     "LearnReact/node_modules/serve-index/public/icons/page_word.png",
     "LearnReact/node_modules/serve-index/public/icons/page_white_wrench.png",
