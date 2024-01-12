@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프로젝트/자신있게 말하기.md",
+                "file": "Area/프로젝트/진행 순서.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "625d2063fbf2f3c3",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프로젝트/자신있게 말하기.md",
+                "file": "Area/프로젝트/진행 순서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/프로젝트/자신있게 말하기.md",
+                "file": "Area/프로젝트/진행 순서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/프로젝트/자신있게 말하기.md"
+                "file": "Area/프로젝트/진행 순서.md"
               }
             }
           }
@@ -149,28 +148,29 @@
   },
   "active": "2e2aa153e1daf992",
   "lastOpenFiles": [
+    "Area/프로젝트/평가.md",
+    "Area/프로젝트/자신있게 말하기.md",
+    "Area/프로젝트/열품타.md",
+    "Area/프로젝트/웹 큐레이팅.md",
     "Area/프로젝트/진행 순서.md",
-    "Area/기타/UN 지속가능한 발전 목표 17가지.md",
-    "Area/프로젝트/아이디어.md",
     "Area/프로젝트/사용되는 기술.md",
     "Area/프로젝트/메모.md",
-    "Area/프로젝트/자신있게 말하기.md",
+    "Area/프로젝트/아키텍처 설계.md",
+    "Area/기타/UN 지속가능한 발전 목표 17가지.md",
+    "Area/프로젝트/아이디어.md",
     "Area/프로젝트/아이디어 구상.md",
     "Area/프로젝트/프로젝트 주제.md",
     "알고리즘 문제 풀이/BOJ/도로_위의_표지판.py",
     "Area/프로그래밍개념/Untitled.md",
     "Area/프로젝트/WebRTC.md",
-    "Area/프로젝트/평가.md",
     "Area/프로젝트/REST API.md",
     "Area/프로젝트/Pasted image 20240106203304.png",
     "알고리즘 문제 풀이/BOJ/멀티탭_스케줄링.py",
     "Area/프로젝트/악기 연주.md",
     "Area/Git/Git 명령어.md",
-    "Area/프로젝트/웹 큐레이팅.md",
     "Area/프로젝트/Atomic Design.md",
     "Area/프로젝트/Docker.md",
     "Area/프로젝트/CI_CD.md",
-    "Area/프로젝트/열품타.md",
     "Area/프로젝트/영상일기.md",
     "Area/프로젝트/WebSocket.md",
     "Area/프로젝트/비대면 수산물 경매 시스템.md",
@@ -178,7 +178,6 @@
     "Area/Node.js/NPM.md",
     "Area/Node.js/프로젝트 초기화.md",
     "Area/Node.js/프로젝트 명령어.md",
-    "Area/Node.js/패키지 설치.md",
     "알고리즘 문제 풀이/BOJ/주지수.py",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java",
