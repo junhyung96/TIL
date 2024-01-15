@@ -54,3 +54,40 @@ JSX - 기본적으로 javascript 이기 때문에 camelCase 사용
 ## 기존의 HTML 문법대로 적고 변환사이트를 이용해서 JSX 문법으로 고칠 수 있다.
 
 [HTML to JSX converter](https://transform.tools/html-to-jsx)
+
+```json
+{
+  "name": "1-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "webpack serve --config ../shared/webpack.config.js"
+  },
+  "author": "Jeonghwan Kim <ej88ej@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.5",
+    "msw": "^1.2.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.9.0"
+  },
+  "babel": {
+    "presets": [
+      [
+        "@babel/preset-react",
+        {
+          "runtime": "automatic"
+        }
+      ]
+    ]
+  }
+}
+```
+
+JSX 문법을 사용하려면 코드 상단에 react 를 import 해와야 했는데 "babel" : 이후의 코드가 자동으로 해줌
