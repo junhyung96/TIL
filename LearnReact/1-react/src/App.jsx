@@ -1,8 +1,13 @@
+import Navbar from "./components/Navbar";
 import ProductItem from "./components/ProductItem";
+import Title from "./components/Title";
 
-const fakeProduct = {id: 'CACDA421', name: '해물 계란 라면', price: 6000, thumbnail: './images/menu-해물계란라면.jpg'}
-
-
+const fakeProduct = {
+  id: "CACDA421",
+  name: "해물 계란 라면",
+  price: 6000,
+  thumbnail: "./images/menu-해물계란라면.jpg",
+};
 
 // {id: 'CACDA422', name: '햄 야채 토스트', price: 8000, thumbnail: './images/menu-햄야채토스트.jpg'}
 
@@ -16,7 +21,7 @@ const App = () => (
   <div className="ProductPage">
     <div className="Page">
       <header>
-        <h1>메뉴 목록</h1>
+        <Title>메뉴 목록</Title>
       </header>
       <main>
         <ul>
@@ -26,12 +31,7 @@ const App = () => (
         </ul>
       </main>
       <footer>
-        <nav className="Navbar">
-          <a className="active" href="#">
-            메뉴 목록
-          </a>
-          <a href="#">주문 내역</a>
-        </nav>
+        <Navbar />
       </footer>
     </div>
   </div>
