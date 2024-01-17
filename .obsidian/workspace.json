@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/백엔드/DBMS.md",
+                "file": "Area/프로젝트/메모.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/백엔드/DBMS.md",
+                "file": "Area/프로젝트/메모.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/백엔드/DBMS.md",
+                "file": "Area/프로젝트/메모.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/백엔드/DBMS.md"
+                "file": "Area/프로젝트/메모.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "c63b6f905eff937a",
   "lastOpenFiles": [
-    "Area/프로젝트/메모.md",
-    "Area/백엔드/DBMS.md",
-    "Area/프로그래밍개념/REPL.md",
     "Area/프로젝트/기록.md",
+    "Area/프로젝트/REST API.md",
+    "Area/백엔드/DBMS.md",
+    "알고리즘 문제 풀이/BOJ/test.py",
+    "Area/프로젝트/메모.md",
+    "Area/프로그래밍개념/REPL.md",
     "Area/프로젝트/비대면 수산물 경매 시스템.md",
     "Area/프론트엔드/UI,UX.md",
     "Pasted image 20240116144250.png",
@@ -164,7 +166,6 @@
     "Area/프론트엔드/React/Props.md",
     "Area/프론트엔드/React/리액트 훅.md",
     "Area/프론트엔드/React/리액트 소개.md",
-    "Area/프로젝트/REST API.md",
     "Area/프론트엔드/React/리액트로 사고하기.md",
     "LearnReact/1-react/src/components/Button.jsx",
     "LearnReact/1-react/src/components",
@@ -175,7 +176,6 @@
     "LearnReact/node_modules/shallow-clone/index.js",
     "LearnReact/node_modules/shallow-clone",
     "LearnReact/node_modules/punycode/README.md",
-    "LearnReact/node_modules/punycode/punycode.js",
     "LearnReact/node_modules/path-parse/README.md",
     "LearnReact/node_modules/isarray/README.md",
     "LearnReact/node_modules/inflight/README.md",
@@ -184,7 +184,6 @@
     "LearnReact/node_modules/get-stream/readme.md",
     "LearnReact/node_modules/shebang-command/readme.md",
     "LearnReact/node_modules/glob-parent/README.md",
-    "LearnReact/node_modules/glob-parent/CHANGELOG.md",
     "LearnReact/node_modules/serve-index/public/icons/page_world.png",
     "LearnReact/node_modules/serve-index/public/icons/page_word.png",
     "LearnReact/node_modules/serve-index/public/icons/page_white_zip.png",
