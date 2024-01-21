@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ca231932c115ed5b",
+        "id": "1834ac99c828f66e",
         "type": "tabs",
         "children": [
           {
-            "id": "c63b6f905eff937a",
+            "id": "c175f0971a474a94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프론트엔드/React/상태.md",
+                "file": "Area/프론트엔드/Javascript/콜백함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프론트엔드/React/상태.md",
+                "file": "Area/프론트엔드/Javascript/콜백함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/프론트엔드/React/상태.md",
+                "file": "Area/프론트엔드/Javascript/콜백함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/프론트엔드/React/상태.md"
+                "file": "Area/프론트엔드/Javascript/콜백함수.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4425823cb8be97f2",
+  "active": "c175f0971a474a94",
   "lastOpenFiles": [
-    "Area/프론트엔드/React/상태 정의.md",
-    "Area/프론트엔드/React/상태.md",
+    "Area/프로젝트/리액트 컴포넌트 구성.md",
+    "Area/프로젝트/프로젝트 고려사항.md",
     "Area/프로젝트/기록.md",
     "Area/프론트엔드/React/React 시작 및 설정.md",
     "Area/프론트엔드/React/ReactDOM.md",
@@ -175,11 +175,11 @@
     "Area/프론트엔드/React/알아야할것.md",
     "Area/프로젝트/역할분배.md",
     "Area/프로그래밍개념/파싱.md",
-    "Area/프로젝트/프로젝트 고려사항.md",
     "Area/프로그래밍개념/Scale Up, Out.md",
     "Area/백엔드/DBMS.md",
     "알고리즘 문제 풀이/BOJ/test.py",
     "Area/프로그래밍개념/REPL.md",
+    "Area/프로젝트/비대면 수산물 경매 시스템.md",
     "LearnReact/1-react/src/components/Navbar.jsx",
     "LearnReact/1-react/src/components/Title.jsx",
     "LearnReact/1-react/src/components/ProductItem.jsx",
