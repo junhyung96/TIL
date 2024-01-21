@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프로젝트/기록.md",
+                "file": "Area/프론트엔드/React/상태.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프로젝트/기록.md",
+                "file": "Area/프론트엔드/React/상태.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/프로젝트/기록.md",
+                "file": "Area/프론트엔드/React/상태.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/프로젝트/기록.md"
+                "file": "Area/프론트엔드/React/상태.md"
               }
             }
           }
@@ -138,23 +138,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c63b6f905eff937a",
+  "active": "4425823cb8be97f2",
   "lastOpenFiles": [
+    "Area/프론트엔드/React/상태 정의.md",
+    "Area/프론트엔드/React/상태.md",
+    "Area/프로젝트/기록.md",
     "Area/프론트엔드/React/React 시작 및 설정.md",
     "Area/프론트엔드/React/ReactDOM.md",
     "Area/프론트엔드/Node.js/패키지 설치.md",
     "Area/프로젝트/진행 순서.md",
     "Area/프로젝트/아이디어.md",
     "Area/프로젝트/메모.md",
-    "Area/프로젝트/기록.md",
     "Area/프로젝트/WebSocket.md",
     "Area/프로젝트/REST API.md",
     "Area/프로그래밍개념/리버스 프록시.md",
@@ -178,8 +180,6 @@
     "Area/백엔드/DBMS.md",
     "알고리즘 문제 풀이/BOJ/test.py",
     "Area/프로그래밍개념/REPL.md",
-    "Area/프로젝트/비대면 수산물 경매 시스템.md",
-    "Area/프론트엔드/UI,UX.md",
     "LearnReact/1-react/src/components/Navbar.jsx",
     "LearnReact/1-react/src/components/Title.jsx",
     "LearnReact/1-react/src/components/ProductItem.jsx",
