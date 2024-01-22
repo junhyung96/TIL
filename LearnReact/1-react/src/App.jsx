@@ -1,4 +1,3 @@
-import createEventEmitter from "shared/lib/EventEmitter";
 import CartPage from "./pages/CartPage";
 import OrderPage from "./pages/OrderPage";
 import ProductPage from "./pages/ProductPage";

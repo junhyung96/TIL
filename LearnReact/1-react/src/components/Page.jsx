@@ -1,11 +1,9 @@
-const Page = ({ header, footer, children }) => {
-  return (
-    <div className="Page">
-      <header>{header}</header>
-      <main>{children}</main>
-      <footer>{footer}</footer>
-    </div>
-  );
-};
+const Page = ({ header, children, footer }) => (
+  <div className="Page">
+    <header>{header}</header>
+    <main>{children}</main>
+    <footer>{footer}</footer>
+  </div>
+);
 
 export default Page;
