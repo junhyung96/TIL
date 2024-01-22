@@ -1,11 +1,20 @@
 import React from 'react'
+const Tag = "Main"
 
 class MainPage extends React.Component {
-    constructor(props) {
-        super(props);
-        this.state ={
+  constructor() {
+    super();
+    this.state = {};
+    console.log(Tag)
+  }
 
-        }
-    }
+  render() {
+    return (
+      <>
+        <h1>HHHHHHHHHHH</h1>
+      </>
+    );
+  }
 }
 
+export default MainPage;

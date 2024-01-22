@@ -1,3 +1,5 @@
+import React from 'react'
+
 const Navbar = () => (
   <nav className="Navbar">
     <a className="active" href="#">

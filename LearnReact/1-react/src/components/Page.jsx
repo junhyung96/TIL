@@ -1,3 +1,5 @@
+import React from "react";
+
 const Page = ({ header, children, footer }) => (
   <div className="Page">
     <header>{header}</header>

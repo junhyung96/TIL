@@ -1,3 +1,5 @@
+import React from 'react'
+
 const Button = ({ styleType, block, ...rest }) => {
   let className = "Button";
   if (styleType) className += ` ${styleType}`;

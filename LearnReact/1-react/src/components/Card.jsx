@@ -1,3 +1,5 @@
+import React from 'react'
+
 const Card = ({ header, data = [], footer }) => (
   <div className="Card">
     {header && <header>{header}</header>}

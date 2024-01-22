@@ -1,3 +1,5 @@
+import React from "react";
+
 const Title = ({ backUrl = "", children }) => {
   if (backUrl) {
     return (

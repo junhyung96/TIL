@@ -1,19 +1,41 @@
 import CartPage from "./pages/CartPage";
 import OrderPage from "./pages/OrderPage";
 import ProductPage from "./pages/ProductPage";
+import React from "react";
+/*
+window.location 
+ancestorOrigins: DOMStringList {length: 0}
+assign: ƒ assign()
+hash: ""
+host: "localhost:8080"
+hostname: "localhost"
+href: "http://localhost:8080/cart"
+origin: "http://localhost:8080"
+pathname: "/cart"
+port: "8080"
+protocol: "http:"
+reload: ƒ reload()
+replace: ƒ replace()
+search: ""
+toString: ƒ toString()
+valueOf: ƒ valueOf()
+Symbol(Symbol.toPrimitive): undefined
+[[Prototype]]: Location
+*/
+const App = () => {
+  const {pathname} = window.location
 
-const App = () => (
-  <>
-    {/* <ProductPage /> */}
-    {/* <OrderPage /> */}
-    <CartPage />
+  return <>
+    {pathname === "/order" && <OrderPage />}
+    {pathname === "/cart" && <CartPage />}
+    {!["/order", "/cart"].includes(pathname) && <ProductPage />}
   </>
-);
+}
 
-// export default App;
+export default App;
 
 import MyReact from "shared/lib/MyReact";
-import React from "react";
+
 
 const countContext = MyReact.createContext({
   count: 0,
@@ -60,12 +82,12 @@ const PlusButton = () => {
   );
 };
 
-export default () => (
-  <CountProvider>
-    <Count />
-    <PlusButton />
-  </CountProvider>
-);
+// export default () => (
+//   <CountProvider>
+//     <Count />
+//     <PlusButton />
+//   </CountProvider>
+// );
 
 // const eventEmitter = createEventEmitter(0)
 // const logger = value => console.log(value)

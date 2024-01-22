@@ -17,3 +17,4 @@ class SkeletonPage extends React.Component {
     }
 }
 
+export default SkeletonPage
