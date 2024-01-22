@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프론트엔드/Javascript/콜백함수.md",
+                "file": "Area/Gerrit/코드 리뷰.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프론트엔드/Javascript/콜백함수.md",
+                "file": "Area/Gerrit/코드 리뷰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/프론트엔드/Javascript/콜백함수.md",
+                "file": "Area/Gerrit/코드 리뷰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/프론트엔드/Javascript/콜백함수.md"
+                "file": "Area/Gerrit/코드 리뷰.md"
               }
             }
           }
@@ -138,62 +138,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "c175f0971a474a94",
   "lastOpenFiles": [
-    "Area/프로젝트/리액트 컴포넌트 구성.md",
-    "Area/프로젝트/프로젝트 고려사항.md",
-    "Area/프로젝트/기록.md",
-    "Area/프론트엔드/React/React 시작 및 설정.md",
-    "Area/프론트엔드/React/ReactDOM.md",
-    "Area/프론트엔드/Node.js/패키지 설치.md",
-    "Area/프로젝트/진행 순서.md",
-    "Area/프로젝트/아이디어.md",
-    "Area/프로젝트/메모.md",
-    "Area/프로젝트/WebSocket.md",
-    "Area/프로젝트/REST API.md",
-    "Area/프로그래밍개념/리버스 프록시.md",
-    "Area/프로그래밍개념/프록시.md",
-    "Area/기타/메모 - 종례 등.md",
     "Area/Gerrit/Gerrit.md",
+    "Area/기타/메모 - 종례 등.md",
+    "Area/프로젝트/기록.md",
+    "Area/프로젝트/리액트 컴포넌트 구성.md",
+    "Area/프로그래밍개념/라우팅.md",
+    "React_Practice/node_modules/wildcard/examples/objects.js",
+    "React_Practice/node_modules/wildcard/examples/strings.js",
+    "React_Practice/node_modules/wildcard/examples/arrays.js",
+    "React_Practice/node_modules/wildcard/examples",
+    "React_Practice/node_modules/webpack-cli/node_modules/commander/typings/index.d.ts",
+    "React_Practice/node_modules/webpack-cli/node_modules/commander/typings",
+    "React_Practice/node_modules/webpack/hot/signal.js",
+    "React_Practice/node_modules/webpack/hot/poll.js",
+    "React_Practice/node_modules/webpack/hot/only-dev-server.js",
+    "React_Practice/node_modules/webpack/hot/log-apply-result.js",
+    "React_Practice/node_modules/caniuse-lite/README.md",
+    "React_Practice/node_modules/electron-to-chromium/CHANGELOG.md",
+    "React_Practice/node_modules/eslint-scope/CHANGELOG.md",
+    "React_Practice/node_modules/wildcard/README.md",
+    "React_Practice/node_modules/browserslist/README.md",
+    "React_Practice/node_modules/ajv-keywords/keywords/dotjs/README.md",
+    "React_Practice/node_modules/ajv/lib/dotjs/README.md",
+    "React_Practice/node_modules/fastest-levenshtein/LICENSE.md",
+    "React_Practice/node_modules/hasown/README.md",
+    "React_Practice/node_modules/rechoir/README.md",
+    "React_Practice/node_modules/supports-preserve-symlinks-flag/CHANGELOG.md",
+    "React_Practice/node_modules/es-module-lexer/README.md",
+    "React_Practice/node_modules/has-flag/readme.md",
+    "React_Practice/node_modules/path-exists/readme.md",
+    "React_Practice/node_modules/@webassemblyjs/floating-point-hex-parser/README.md",
+    "React_Practice/node_modules/@webassemblyjs/wast-printer/README.md",
     "Area/Gerrit/코드 리뷰.md",
+    "Pasted image 20240122151317.png",
+    "Pasted image 20240122151226.png",
+    "Pasted image 20240122151215.png",
+    "Pasted image 20240122151205.png",
+    "Pasted image 20240122151145.png",
+    "Pasted image 20240122150850.png",
+    "Area/프론트엔드/React/컨택스트.md",
+    "Area/프론트엔드/React/리액트 컴포넌트.md",
+    "Area/프론트엔드/React/이벤트 에미터.md",
+    "Area/프론트엔드/React/이벤트 핸들러.md",
     "Pasted image 20240119090707.png",
     "Pasted image 20240116144250.png",
-    "Area/Gerrit",
-    "Area/Untitled.md",
-    "Area/Java/InputStream, OutputStream.md",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main1009.java~",
-    "Area/B형.md",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main1009.java",
-    "Area/프론트엔드/React/알아야할것.md",
-    "Area/프로젝트/역할분배.md",
-    "Area/프로그래밍개념/파싱.md",
-    "Area/프로그래밍개념/Scale Up, Out.md",
-    "Area/백엔드/DBMS.md",
-    "알고리즘 문제 풀이/BOJ/test.py",
-    "Area/프로그래밍개념/REPL.md",
-    "Area/프로젝트/비대면 수산물 경매 시스템.md",
-    "LearnReact/1-react/src/components/Navbar.jsx",
-    "LearnReact/1-react/src/components/Title.jsx",
-    "LearnReact/1-react/src/components/ProductItem.jsx",
-    "LearnReact/1-react/src/components/Button.jsx",
-    "LearnReact/1-react/src/components",
-    "LearnReact/node_modules/shallow-clone/LICENSE",
     "LearnReact/node_modules/serve-index/public/icons/page_world.png",
     "LearnReact/node_modules/serve-index/public/icons/page_word.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_zip.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_wrench.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_word.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_world.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_width.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_visualstudio.png",
     "Area/프론트엔드/무제 파일.canvas",
     "무제 파일.canvas"
   ]
