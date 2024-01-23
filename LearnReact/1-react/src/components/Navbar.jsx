@@ -1,11 +1,12 @@
 import React from 'react'
+import * as MyRouter from "../lib/MyRouter"
 
 const Navbar = () => (
   <nav className="Navbar">
-    <a className="active" href="#">
+    <MyRouter.Link className="active" to="/">
       메뉴목록
-    </a>
-    <a href="#">주문내역</a>
+    </MyRouter.Link>
+    <MyRouter.Link href="/order">주문내역</MyRouter.Link>
   </nav>
 );
 

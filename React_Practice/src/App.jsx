@@ -1,16 +1,14 @@
-import BoardPage from "./pages/BoardPage";
-import LoginPage from "./pages/LoginPage";
-import MainPage from "./pages/MainPage";
-import SignUpPage from "./pages/SingUpPage";
-import React from "react"
+import React from "react";
+import Router from "./lib/MyRouter";
+import Navbar from "./components/Navbar";
 
 const App = () => {
-  return <>
-    <MainPage />
-    {/* <LoginPage />
-    <SignUpPage />
-    <BoardPage /> */}
-  </>
+  return (
+    <>
+      <Router/>
+      
+    </>
+  );
 };
 
 export default App;

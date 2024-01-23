@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/Gerrit/코드 리뷰.md",
+                "file": "Area/프론트엔드/React/Link 컴포넌트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/Gerrit/코드 리뷰.md",
+                "file": "Area/프론트엔드/React/Link 컴포넌트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/Gerrit/코드 리뷰.md",
+                "file": "Area/프론트엔드/React/Link 컴포넌트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/Gerrit/코드 리뷰.md"
+                "file": "Area/프론트엔드/React/Link 컴포넌트.md"
               }
             }
           }
@@ -148,21 +148,30 @@
   },
   "active": "c175f0971a474a94",
   "lastOpenFiles": [
+    "React_Practice/public/images/Main2.png",
+    "React_Practice/public/images/image (1).png",
+    "React_Practice/src/components/Footer.jsx",
+    "React_Practice/public/videos/cat.mp4",
+    "React_Practice/public/videos",
+    "React_Practice/public/images/Main1.png",
+    "React_Practice/public/images/image.png",
+    "React_Practice/public/images",
+    "React_Practice/src/components/Page copy.jsx",
+    "React_Practice/src/pages/PracticePage/index.jsx",
+    "React_Practice/src/pages/PracticePage",
+    "React_Practice/src/pages/StudyPage/index.jsx",
+    "React_Practice/src/pages/StudyPage",
+    "React_Practice/src/lib/MyRouter.jsx",
+    "React_Practice/node_modules/@remix-run/router/README.md",
+    "React_Practice/node_modules/@remix-run/router/LICENSE.md",
+    "React_Practice/node_modules/@remix-run/router/CHANGELOG.md",
+    "Area/Gerrit/코드 리뷰.md",
+    "Area/프론트엔드/React/Link 컴포넌트.md",
     "Area/Gerrit/Gerrit.md",
     "Area/기타/메모 - 종례 등.md",
     "Area/프로젝트/기록.md",
     "Area/프로젝트/리액트 컴포넌트 구성.md",
     "Area/프로그래밍개념/라우팅.md",
-    "React_Practice/node_modules/wildcard/examples/objects.js",
-    "React_Practice/node_modules/wildcard/examples/strings.js",
-    "React_Practice/node_modules/wildcard/examples/arrays.js",
-    "React_Practice/node_modules/wildcard/examples",
-    "React_Practice/node_modules/webpack-cli/node_modules/commander/typings/index.d.ts",
-    "React_Practice/node_modules/webpack-cli/node_modules/commander/typings",
-    "React_Practice/node_modules/webpack/hot/signal.js",
-    "React_Practice/node_modules/webpack/hot/poll.js",
-    "React_Practice/node_modules/webpack/hot/only-dev-server.js",
-    "React_Practice/node_modules/webpack/hot/log-apply-result.js",
     "React_Practice/node_modules/caniuse-lite/README.md",
     "React_Practice/node_modules/electron-to-chromium/CHANGELOG.md",
     "React_Practice/node_modules/eslint-scope/CHANGELOG.md",
@@ -178,22 +187,13 @@
     "React_Practice/node_modules/has-flag/readme.md",
     "React_Practice/node_modules/path-exists/readme.md",
     "React_Practice/node_modules/@webassemblyjs/floating-point-hex-parser/README.md",
-    "React_Practice/node_modules/@webassemblyjs/wast-printer/README.md",
-    "Area/Gerrit/코드 리뷰.md",
     "Pasted image 20240122151317.png",
     "Pasted image 20240122151226.png",
     "Pasted image 20240122151215.png",
     "Pasted image 20240122151205.png",
     "Pasted image 20240122151145.png",
     "Pasted image 20240122150850.png",
-    "Area/프론트엔드/React/컨택스트.md",
-    "Area/프론트엔드/React/리액트 컴포넌트.md",
-    "Area/프론트엔드/React/이벤트 에미터.md",
-    "Area/프론트엔드/React/이벤트 핸들러.md",
     "Pasted image 20240119090707.png",
-    "Pasted image 20240116144250.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_world.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_word.png",
     "Area/프론트엔드/무제 파일.canvas",
     "무제 파일.canvas"
   ]
