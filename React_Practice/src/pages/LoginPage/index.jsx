@@ -34,7 +34,10 @@ class LoginPage extends React.Component {
         <Link to="/signup" element={<SignUpPage />}>
           회원가입
         </Link>
-        <div className="S"></div>ocialLogin
+        <div className="SocialLogin">
+            <div className="KakaoLogin">카카오 로그인</div>
+            <div className="GoogleLogin">구글 로그인</div>
+        </div>
       </Page>
     );
   }
