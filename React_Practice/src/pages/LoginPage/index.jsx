@@ -1,9 +1,10 @@
-import React from "react";
+import React from 'react'
 import Page from "../../components/Page";
 import Footer from "../../components/Footer";
 import { Link } from "react-router-dom";
 import MainPage from "../MainPage";
 import SignUpPage from "../SingUpPage";
+import Button from "../../components/Button"
 
 class LoginPage extends React.Component {
   constructor(props) {
@@ -25,7 +26,8 @@ class LoginPage extends React.Component {
               <input type="checkbox" />
               아이디 저장하기
             </label>
-            <input type="submit" value="Login" />
+            {/* <input type="submit" value="Login" /> */}
+            <Button>Login</Button>
           </form>
         </div>
         <Link to="/findpw" element={<SignUpPage />}>

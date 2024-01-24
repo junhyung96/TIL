@@ -5,15 +5,43 @@ import Footer from "../../components/Footer";
 import { Link } from "react-router-dom";
 import PracticePage from "../PracticePage";
 import StudyPage from "../StudyPage";
+import API from '../../services/Api';
+import axios from 'axios'
 
-const Tag = "Main";
+export const login = async (code) => {
+    const { data } = await API.post('url',
+          JSON.stringify(code)
+    );
+    return data;
+}
+
+// export const getDeposit = function () {
+//   axios({
+//     method: "get",
+//     url: "http://127.0.0.1:8000/finance/deposits",
+//   })
+//     .then((response) => {
+//       this.setState({
+//         depositProducts: response.data
+//       })
+//     })
+//     .catch((error) => {
+//       console.log(error);
+//     });
+// };
 
 class MainPage extends React.Component {
   constructor() {
     super();
-    this.state = {};
-    console.log(Tag);
+    this.state = {
+      depositProducts: '',
+    };
   }
+
+  // componentDidMount() {
+  //   getDeposit();
+  // }
+
 
   render() {
     return (
@@ -42,10 +70,15 @@ class MainPage extends React.Component {
           <div className="Main4">
             <img src="images/Main2.png" alt="" />
           </div>
+          <div className="Main5">
+            {this.state.depositProducts}
+          </div>
         </Page>
       </div>
     );
   }
 }
+
+
 
 export default MainPage;

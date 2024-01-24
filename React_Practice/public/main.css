@@ -206,7 +206,7 @@ code {
 }
 .Navbar {
   align-items: center;
-  background-color: #fff;
+  background-color: #0C134F;
   border-radius: 8px 8px 0 0;
   box-shadow: 0 -1px 20px #999;
   display: flex;
@@ -214,7 +214,8 @@ code {
   width: 100%;
 }
 .Navbar a {
-  color: #000;
+  color: #ffffff;
+  height: 200px;
   flex: 1 1;
   font-weight: 700;
   padding: 16px 24px;
@@ -361,18 +362,17 @@ code {
   padding-left: 16px;
   text-decoration: none;
 }
-.Page > header a:before {
+/* .Page > header {
   color: #000;
   content: "<";
   font-weight: 700;
-}
+} */
 .Page > main {
   flex-grow: 1;
   margin: 8px 0;
 }
 .Page > footer {
   bottom: 0;
-  position: fixed;
   width: 100%;
 }
 .ProductPage main {
