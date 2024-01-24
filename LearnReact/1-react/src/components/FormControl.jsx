@@ -1,5 +1,3 @@
-import React from 'react'
-
 const FormControl = ({ label, htmlFor, required, children }) => (
   <div className="FormControl">
     <label htmlFor={htmlFor}>

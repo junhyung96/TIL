@@ -1,4 +1,3 @@
-import React from 'react'
 import Button from "../../components/Button";
 
 const PaymentButton = () => (
@@ -12,5 +11,6 @@ const PaymentButton = () => (
       결제하기
     </Button>
   </div>
-)
+);
+
 export default PaymentButton;

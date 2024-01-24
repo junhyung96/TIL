@@ -1,5 +1,4 @@
 import ProductItem from "../../components/ProductItem";
-import React from 'react'
 
 const OrderableProductItem = ({ product }) => {
   const handleClick = () => {

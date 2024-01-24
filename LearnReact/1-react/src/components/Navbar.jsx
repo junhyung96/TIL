@@ -1,4 +1,3 @@
-import React from 'react'
 import * as MyRouter from "../lib/MyRouter"
 
 const Navbar = () => (

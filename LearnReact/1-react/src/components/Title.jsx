@@ -1,5 +1,4 @@
 import * as MyRouter from "../lib/MyRouter"
-import React from "react";
 
 const Title = ({ backUrl = "", children }) => {
   if (backUrl) {
