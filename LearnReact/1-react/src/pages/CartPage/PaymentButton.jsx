@@ -12,6 +12,5 @@ const PaymentButton = () => (
       결제하기
     </Button>
   </div>
-);
-
+)
 export default PaymentButton;

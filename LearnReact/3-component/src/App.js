@@ -48,6 +48,7 @@ export default class App extends React.Component {
     return (
       <>
         <Header title="검색" />
+        
         <div className="container">
           <SearchForm
             value={searchKeyword}
