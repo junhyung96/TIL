@@ -1,4 +1,4 @@
-import * as MyRouter from "../lib/MyRouter"
+import * as MyRouter from "../lib/MyRouter";
 
 const Title = ({ backUrl = "", children }) => {
   if (backUrl) {

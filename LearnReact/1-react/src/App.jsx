@@ -1,10 +1,10 @@
+import React from "react";
 import * as MyRouter from "./lib/MyRouter";
 import CartPage from "./pages/CartPage";
-import ProductPage from "./pages/ProductPage";
 import OrderPage from "./pages/OrderPage";
+import ProductPage from "./pages/ProductPage";
+import { getComponentName } from "./lib/utils";
 
-// 컨택스트를 쓰려면 Provider로 감싸야 한다 Why?????
-// Router 는 routerContext.Provider 를 반환한다
 const App = () => (
   <MyRouter.Router>
     <MyRouter.Routes>
@@ -17,66 +17,49 @@ const App = () => (
 
 export default App;
 
-// import MyReact from "./lib/MyReact";
 
-// const countContext = MyReact.createContext({
-//   count: 0,
-//   setCount: () => {},
-// });
-
-// class CountProvider extends React.Component {
-//   constructor(props) {
-//     super(props);
-//     this.state = {
-//       count: 0,
-//     };
-//   }
+// class Header extends React.Component {
 //   render() {
-//     const value = {
-//       count: this.state.count,
-//       setCount: (nextValue) => this.setState({ count: nextValue }),
-//     };
-//     return (
-//       <countContext.Provider value={value}>
-//         {this.props.children}
-//       </countContext.Provider>
-//     );
+//     return <header>Header</header>;
 //   }
 // }
 
-// const Count = () => {
-//   return (
-//     <countContext.Consumer>
-//       {(value) => <div>{value.count}</div>}
-//     </countContext.Consumer>
-//   );
+// class Button extends React.Component {
+//   handleClick = () => {
+//     this.props.log("클릭");
+//   };
+//   render() {
+//     return <button onClick={this.handleClick}>버튼</button>;
+//   }
+// }
+
+// // 고차 컴포넌트 관례 with 접두어 사용
+// const withLogging = (WrappedComponent) => {
+//   function log(message) {
+//     console.log(`[${getComponentName(WrappedComponent)}] ${message}`);
+//   }
+
+//   class WithLogging extends React.Component {
+//     render() {
+//       const enhancedProps = {
+//         log,
+//       };
+//       return <WrappedComponent {...this.props} {...enhancedProps} />;
+//     }
+//     componentDidMount() {
+//       log("마운트");
+//     }
+//   }
+
+//   return WithLogging;
 // };
 
-// const PlusButton = () => {
-//   return (
-//     <countContext.Consumer>
-//       {(value) => (
-//         <button onClick={() => value.setCount(value.count + 1)}>
-//           + 카운트 올리기
-//         </button>
-//       )}
-//     </countContext.Consumer>
-//   );
-// };
+// const EnhancedHeader = withLogging(Header);
+// const EnhancedButton = withLogging(Button);
 
 // export default () => (
-//   <CountProvider>
-//     <Count />
-//     <PlusButton />
-//   </CountProvider>
+//   <>
+//     <EnhancedHeader />
+//     <EnhancedButton />
+//   </>
 // );
-
-// const eventEmitter = createEventEmitter(0)
-// const logger = value => console.log(value)
-
-// eventEmitter.on(logger)
-// console.log(eventEmitter.get())
-// eventEmitter.set(1)
-// eventEmitter.set(2)
-
-// setTimeout(() => eventEmitter.set(10), 3000)

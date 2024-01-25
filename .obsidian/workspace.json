@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/javascript/export.md",
+                "file": "Area/프로젝트/진행 순서.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/javascript/export.md",
+                "file": "Area/프로젝트/진행 순서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/javascript/export.md",
+                "file": "Area/프로젝트/진행 순서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/javascript/export.md"
+                "file": "Area/프로젝트/진행 순서.md"
               }
             }
           }
@@ -146,20 +146,30 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c175f0971a474a94",
+  "active": "4425823cb8be97f2",
   "lastOpenFiles": [
-    "LearnReact/1-react/src/lib/MyRouter.jsx",
-    "LearnReact/shared/lib/MyReact.jsx",
-    "LearnReact/1-react/src/lib/MyReact.jsx",
-    "LearnReact/node_modules/path-to-regexp/dist.es2015/index.js.map",
-    "LearnReact/node_modules/path-to-regexp/dist/index.js.map",
-    "LearnReact/node_modules/path-to-regexp/dist/index.js",
-    "LearnReact/node_modules/path-to-regexp/dist/index.d.ts",
-    "LearnReact/node_modules/path-to-regexp/dist.es2015/index.js",
-    "LearnReact/node_modules/path-to-regexp/package.json",
+    "Area/프로젝트/아키텍처 설계.md",
+    "Area/프로젝트/비대면 수산물 경매 시스템.md",
+    "Area/프로젝트/메모.md",
+    "Area/프로젝트/리액트 컴포넌트 구성.md",
+    "Area/프로젝트/기록.md",
+    "Area/프로그래밍개념/파싱.md",
+    "Area/프로그래밍개념/프록시.md",
+    "Area/Git/Git 명령어.md",
+    "LearnReact/1-react/src/lib/utils.js",
+    "LearnReact/1-react/src/pages/ProductPage/OrderableProductItem.jsx",
+    "LearnReact/1-react/src/pages/ProductPage/index.jsx",
+    "LearnReact/1-react/src/pages/OrderPage/OrderStatusCard.jsx",
+    "LearnReact/1-react/src/pages/OrderPage/OrderPaymentCard.jsx",
+    "LearnReact/1-react/src/pages/OrderPage/OrderDeliveryCard.jsx",
+    "LearnReact/1-react/src/pages/OrderPage/index.jsx",
+    "LearnReact/1-react/src/pages/CartPage/PaymentButton.jsx",
+    "LearnReact/1-react/src/pages/CartPage/OrderForm.jsx",
+    "LearnReact/1-react/src/pages/CartPage/index.jsx",
+    "Area/Git/Git 이해와 활용.md",
+    "Area/Git/궁금증.md",
+    "Area/javascript/export.md",
     "LearnReact/node_modules/path-to-regexp/Readme.md",
-    "LearnReact/node_modules/path-to-regexp/LICENSE",
-    "LearnReact/node_modules/path-to-regexp/dist.es2015",
     "LearnReact/node_modules/globals/readme.md",
     "LearnReact/node_modules/color-name/README.md",
     "LearnReact/node_modules/color-convert/README.md",
@@ -174,16 +184,6 @@
     "LearnReact/node_modules/shebang-regex/readme.md",
     "LearnReact/node_modules/path-key/readme.md",
     "LearnReact/node_modules/isexe/README.md",
-    "LearnReact/node_modules/connect-history-api-fallback/README.md",
-    "LearnReact/node_modules/compressible/README.md",
-    "LearnReact/node_modules/compressible/HISTORY.md",
-    "LearnReact/node_modules/bytes/Readme.md",
-    "LearnReact/node_modules/bytes/History.md",
-    "LearnReact/node_modules/braces/README.md",
-    "LearnReact/node_modules/braces/CHANGELOG.md",
-    "LearnReact/node_modules/picomatch/README.md",
-    "LearnReact/node_modules/picomatch/CHANGELOG.md",
-    "LearnReact/node_modules/vary/README.md",
     "LearnReact/node_modules/serve-index/public/icons/page_world.png",
     "LearnReact/node_modules/serve-index/public/icons/page_word.png",
     "LearnReact/node_modules/serve-index/public/icons/page_white_zip.png",
