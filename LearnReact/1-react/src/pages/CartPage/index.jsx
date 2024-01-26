@@ -1,9 +1,9 @@
 import React from "react";
 import ProductApi from "shared/api/ProductApi";
-import * as MyRouter from '../../lib/MyRouter'
 import Page from "../../components/Page";
 import ProductItem from "../../components/ProductItem";
 import Title from "../../components/Title";
+import * as MyRouter from "../../lib/MyRouter";
 import OrderForm from "./OrderForm";
 import PaymentButton from "./PaymentButton";
 
@@ -19,9 +19,8 @@ class CartPage extends React.Component {
   }
 
   async fetch() {
-    const {productId} = this.props.params()
-    if(!productId) return;
-
+    const { productId } = this.props.params();
+    if (!productId) return;
     try {
       const product = await ProductApi.fetchProduct(productId);
       this.setState({ product });
@@ -33,9 +32,9 @@ class CartPage extends React.Component {
   handleSubmit(values) {
     console.log(values);
 
-    // 결제 성공 후
-    this.props.navigate("/order")
+    // TODO: 결제 성공 후
 
+    this.props.navigate("/order");
   }
 
   render() {
