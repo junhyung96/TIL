@@ -16,9 +16,9 @@ const App = () => (
         <MyRouter.Route path="/order" element={<OrderPage />} />
         <MyRouter.Route path="/" element={<ProductPage />} />
       </MyRouter.Routes>
-      <Backdrop>
+      {/* <Backdrop>
         <Dialog />
-      </Backdrop>
+      </Backdrop> */}
     </MyRouter.Router>
   </MyLayout.Layout>
 );

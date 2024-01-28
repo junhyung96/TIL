@@ -1,11 +1,15 @@
 import React from "react";
 import ProductApi from "shared/api/ProductApi";
+import OrderApi from "shared/api/OrderApi";
 import Page from "../../components/Page";
 import ProductItem from "../../components/ProductItem";
 import Title from "../../components/Title";
 import * as MyRouter from "../../lib/MyRouter";
+import * as MyLayout from "../../lib/MyLayout";
 import OrderForm from "./OrderForm";
 import PaymentButton from "./PaymentButton";
+import ErrorDialog from "../../components/ErrorDialog";
+import PaymentSuccessDialog from "./PaymentSuccessDialog";
 
 class CartPage extends React.Component {
   constructor(props) {
@@ -19,22 +23,37 @@ class CartPage extends React.Component {
   }
 
   async fetch() {
-    const { productId } = this.props.params();
+    const { startLoading, finishLoading, openDialog, params } = this.props;
+    const { productId } = params();
     if (!productId) return;
+
+    startLoading("장비구니에 담는 중...");
     try {
       const product = await ProductApi.fetchProduct(productId);
       this.setState({ product });
     } catch (e) {
+      openDialog(<ErrorDialog />);
+      return;
       console.error(e);
     }
+    finishLoading();
   }
 
-  handleSubmit(values) {
+  async handleSubmit(values) {
     console.log(values);
+    const { startLoading, finishLoading, openDialog } = this.props;
+    startLoading("결제중...");
+    try {
+      await OrderApi.createOrder(values)
+    } catch (e) {
+      openDialog(<ErrorDialog />);
+      return;
+    }
+    finishLoading();
 
-    // TODO: 결제 성공 후
+    openDialog(<PaymentSuccessDialog />)
 
-    this.props.navigate("/order");
+    // this.props.navigate("/order");
   }
 
   render() {
@@ -53,4 +72,4 @@ class CartPage extends React.Component {
   }
 }
 
-export default MyRouter.withRouter(CartPage);
+export default MyLayout.withLayout(MyRouter.withRouter(CartPage));

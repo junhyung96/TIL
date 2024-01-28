@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프로젝트/기록.md",
+                "file": "Area/프론트엔드/React/리액트 포탈.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프로젝트/기록.md",
+                "file": "Area/프론트엔드/React/리액트 포탈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/프로젝트/기록.md",
+                "file": "Area/프론트엔드/React/리액트 포탈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/프로젝트/기록.md"
+                "file": "Area/프론트엔드/React/리액트 포탈.md"
               }
             }
           }
@@ -138,35 +138,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "c175f0971a474a94",
   "lastOpenFiles": [
+    "LearnReact/2-hook/src/main.jsx",
+    "LearnReact/2-hook/src/pages/ProductPage/OrderableProductItem.jsx",
+    "LearnReact/2-hook/src/pages/ProductPage/index.jsx",
+    "LearnReact/2-hook/src/pages/OrderPage/OrderStatusCard.jsx",
+    "LearnReact/2-hook/src/pages/OrderPage/OrderPaymentCard.jsx",
+    "LearnReact/2-hook/src/pages/OrderPage/index.jsx",
+    "LearnReact/2-hook/src/pages/OrderPage/OrderDeliveryCard.jsx",
+    "LearnReact/2-hook/src/pages/CartPage/PaymentButton.jsx",
+    "LearnReact/2-hook/src/pages/CartPage/PaymentSuccessDialog.jsx",
+    "LearnReact/2-hook/src/pages/CartPage/index.jsx",
+    "LearnReact/2-hook/src/pages/ProductPage",
+    "Area/VSCode/단축키.md",
+    "Area/프론트엔드/React/리액트 포탈.md",
+    "Area/무제 파일.md",
+    "Pasted image 20240128101111.png",
+    "Area/프로젝트/기록.md",
     "Area/프로젝트/진행 순서.md",
     "Area/프로젝트/아키텍처 설계.md",
     "Area/프로젝트/비대면 수산물 경매 시스템.md",
     "Area/프로젝트/메모.md",
     "Area/프로젝트/리액트 컴포넌트 구성.md",
-    "Area/프로젝트/기록.md",
     "Area/프로그래밍개념/파싱.md",
     "Area/프로그래밍개념/프록시.md",
     "Area/Git/Git 명령어.md",
-    "LearnReact/1-react/src/lib/utils.js",
-    "LearnReact/1-react/src/pages/ProductPage/OrderableProductItem.jsx",
-    "LearnReact/1-react/src/pages/ProductPage/index.jsx",
-    "LearnReact/1-react/src/pages/OrderPage/OrderStatusCard.jsx",
-    "LearnReact/1-react/src/pages/OrderPage/OrderPaymentCard.jsx",
-    "LearnReact/1-react/src/pages/OrderPage/OrderDeliveryCard.jsx",
-    "LearnReact/1-react/src/pages/OrderPage/index.jsx",
-    "LearnReact/1-react/src/pages/CartPage/PaymentButton.jsx",
-    "LearnReact/1-react/src/pages/CartPage/OrderForm.jsx",
-    "LearnReact/1-react/src/pages/CartPage/index.jsx",
     "Area/Git/Git 이해와 활용.md",
     "Area/Git/궁금증.md",
     "Area/javascript/export.md",
@@ -180,10 +185,6 @@
     "LearnReact/node_modules/js-tokens/CHANGELOG.md",
     "LearnReact/node_modules/schema-utils/README.md",
     "LearnReact/node_modules/schema-utils/CHANGELOG.md",
-    "LearnReact/node_modules/loader-utils/README.md",
-    "LearnReact/node_modules/debug/README.md",
-    "LearnReact/node_modules/shebang-regex/readme.md",
-    "LearnReact/node_modules/path-key/readme.md",
     "LearnReact/node_modules/serve-index/public/icons/page_world.png",
     "LearnReact/node_modules/serve-index/public/icons/page_word.png",
     "LearnReact/node_modules/serve-index/public/icons/page_white_zip.png",
@@ -193,7 +194,6 @@
     "LearnReact/node_modules/serve-index/public/icons/page_white_width.png",
     "LearnReact/node_modules/serve-index/public/icons/page_white_visualstudio.png",
     "LearnReact/node_modules/serve-index/public/icons/page_white_vector.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_tux.png",
     "Area/프론트엔드/무제 파일.canvas",
     "무제 파일.canvas"
   ]
