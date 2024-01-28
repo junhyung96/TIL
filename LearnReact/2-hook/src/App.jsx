@@ -1,29 +1,28 @@
-const App = () => <>2-hook</>;
+import React, { setState } from "react";
+import MyReact from "./lib/MyReact";
+// const App = () => <>2-hook</>;
 
-export default App;
+// export default App;
 
-class Contract {
-  constructor(name) {
-    this.name = name;
+function NameField() {
+  const [firstname, setFirstname] = MyReact.useState("사용자1")
+  const [lastname, setLastname] = MyReact.useState("김")
+  const [name, setName] = MyReact.useState("박")
+
+  const handleChangeFirstname = (e) => {
+    setFirstname(e.target.value)
   }
-
-  sign() {
-    const capturedName = this.name
-    setTimeout(() => console.log("서명인: ", capturedName), 3000);
+  const handleChangeLastname = (e) => {
+    setLastname(e.target.value)
   }
+  const handleChangeName = (e) => {
+    setName(e.target.value)
+  }
+  return <>
+  <input value={firstname} onChange={handleChangeFirstname}/>
+  <input value={lastname} onChange={handleChangeLastname}/>
+  <input value={name} onChange={handleChangeName}/>
+  </>
 }
 
-// const contract = new Contract("사용자 1")
-// contract.sign()
-
-function createContract(name) {
-    const sign = () => {
-        setTimeout(() => console.log("서명인: ", name), 3000);
-    }
-
-    return {
-        sign
-    }
-}
-const contract = createContract("사용자3")
-contract.sign();
+export default () => <NameField />
