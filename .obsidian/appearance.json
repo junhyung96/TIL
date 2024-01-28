@@ -1,5 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal",
-  "theme": "obsidian"
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "interfaceFontFamily": "맑은 고딕",
+  "baseFontSize": 15,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
 }

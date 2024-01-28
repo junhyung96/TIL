@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1834ac99c828f66e",
+        "id": "d529e7878cc8a21a",
         "type": "tabs",
         "children": [
           {
-            "id": "c175f0971a474a94",
+            "id": "e0243e9973e0099a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프론트엔드/React/리액트 포탈.md",
+                "file": "Area/프론트엔드/React/리액트 훅.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.5
   },
   "right": {
     "id": "625d2063fbf2f3c3",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프론트엔드/React/리액트 포탈.md",
+                "file": "Area/프론트엔드/React/리액트 훅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/프론트엔드/React/리액트 포탈.md",
+                "file": "Area/프론트엔드/React/리액트 훅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/프론트엔드/React/리액트 포탈.md"
+                "file": "Area/프론트엔드/React/리액트 훅.md"
               }
             }
           }
@@ -146,21 +146,30 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c175f0971a474a94",
+  "active": "e0243e9973e0099a",
   "lastOpenFiles": [
+    "Area/VSCode/단축키.md",
+    "Area/프론트엔드/React/즉시실행함수.md",
+    "LearnReact/Practice/make_useState.jsx",
+    "Area/프론트엔드/React/리액트 컴포넌트.md",
+    "LearnReact/2-hook/src/lib/MyReact.jsx",
+    "LearnReact/2-hook/src/lib",
+    "LearnReact/Practice/func_comp_problem1.jsx",
+    "LearnReact/Practice/class_component.jsx",
+    "LearnReact/Practice/function_component.jsx",
+    "Area/발견들/240128.md",
+    "Area/기타/메모 - 종례 등.md",
+    "Area/기타/코딩 컨벤션.md",
+    "Area/기타/UN 지속가능한 발전 목표 17가지.md",
+    "Area/디자인패턴/MVC.md",
+    "Pasted image 20240116144250.png",
+    "2024-01-28.md",
+    "Area/B형.md",
+    "Area/발견들",
+    "Area/프론트엔드/React/리액트 포탈.md",
     "LearnReact/2-hook/src/main.jsx",
     "LearnReact/2-hook/src/pages/ProductPage/OrderableProductItem.jsx",
     "LearnReact/2-hook/src/pages/ProductPage/index.jsx",
-    "LearnReact/2-hook/src/pages/OrderPage/OrderStatusCard.jsx",
-    "LearnReact/2-hook/src/pages/OrderPage/OrderPaymentCard.jsx",
-    "LearnReact/2-hook/src/pages/OrderPage/index.jsx",
-    "LearnReact/2-hook/src/pages/OrderPage/OrderDeliveryCard.jsx",
-    "LearnReact/2-hook/src/pages/CartPage/PaymentButton.jsx",
-    "LearnReact/2-hook/src/pages/CartPage/PaymentSuccessDialog.jsx",
-    "LearnReact/2-hook/src/pages/CartPage/index.jsx",
-    "LearnReact/2-hook/src/pages/ProductPage",
-    "Area/VSCode/단축키.md",
-    "Area/프론트엔드/React/리액트 포탈.md",
     "Area/무제 파일.md",
     "Pasted image 20240128101111.png",
     "Area/프로젝트/기록.md",
@@ -176,15 +185,6 @@
     "Area/Git/궁금증.md",
     "Area/javascript/export.md",
     "LearnReact/node_modules/path-to-regexp/Readme.md",
-    "LearnReact/node_modules/globals/readme.md",
-    "LearnReact/node_modules/color-name/README.md",
-    "LearnReact/node_modules/color-convert/README.md",
-    "LearnReact/node_modules/color-convert/CHANGELOG.md",
-    "LearnReact/node_modules/chalk/readme.md",
-    "LearnReact/node_modules/js-tokens/README.md",
-    "LearnReact/node_modules/js-tokens/CHANGELOG.md",
-    "LearnReact/node_modules/schema-utils/README.md",
-    "LearnReact/node_modules/schema-utils/CHANGELOG.md",
     "LearnReact/node_modules/serve-index/public/icons/page_world.png",
     "LearnReact/node_modules/serve-index/public/icons/page_word.png",
     "LearnReact/node_modules/serve-index/public/icons/page_white_zip.png",
@@ -193,7 +193,6 @@
     "LearnReact/node_modules/serve-index/public/icons/page_white_world.png",
     "LearnReact/node_modules/serve-index/public/icons/page_white_width.png",
     "LearnReact/node_modules/serve-index/public/icons/page_white_visualstudio.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_vector.png",
     "Area/프론트엔드/무제 파일.canvas",
     "무제 파일.canvas"
   ]
