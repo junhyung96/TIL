@@ -1,4 +1,5 @@
 import React, { setState } from "react";
+import MyReact from "./lib/MyReact";
 // const App = () => <>2-hook</>;
 
 // export default App;
