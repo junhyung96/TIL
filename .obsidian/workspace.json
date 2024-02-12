@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/Java/메서드/mapToObj.md",
+                "file": "Area/프로젝트/기록.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/Java/메서드/mapToObj.md",
+                "file": "Area/프로젝트/기록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/Java/메서드/mapToObj.md",
+                "file": "Area/프로젝트/기록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/Java/메서드/mapToObj.md"
+                "file": "Area/프로젝트/기록.md"
               }
             }
           }
@@ -160,12 +160,13 @@
   },
   "active": "4d207ea10775ecca",
   "lastOpenFiles": [
+    "Pasted image 20240211203822.png",
+    "Area/Java/메서드/mapToObj.md",
     "LearnReact/Practice/setState_practice.jsx",
     "Area/프론트엔드/React/리액트 메모.md",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1032.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1009.class",
     "Area/Java/메서드/메서드.md",
-    "Area/Java/메서드/mapToObj.md",
     "Area/Java/Stream.md",
     "Area/Java/Intellij.md",
     "Area/Java/InputStreamReader, OutputStreamWriter.md",
@@ -195,7 +196,6 @@
     "새 폴더/node_modules/tar/test/link-file-entry-collision/bad-link.tar",
     "새 폴더/node_modules/tar/test/link-file-entry-collision/bad-link.hex",
     "새 폴더/node_modules/tar/test/zz-cleanup.js",
-    "새 폴더/node_modules/tar/test/parse.js",
     "Pasted image 20240116144250.png",
     "Pasted image 20240128101111.png",
     "LearnReact/node_modules/serve-index/public/icons/page_world.png",
