@@ -3,7 +3,7 @@
   "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "interfaceFontFamily": "맑은 고딕",
-  "baseFontSize": 15,
+  "baseFontSize": 17,
   "translucency": false,
   "enabledCssSnippets": [
     "extended-colorschemes"
