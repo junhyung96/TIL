@@ -160,6 +160,9 @@
   },
   "active": "4d207ea10775ecca",
   "lastOpenFiles": [
+    "Area/프론트엔드/React/리액트 포탈.md",
+    "Area/프론트엔드/React/리액트 훅.md",
+    "Area/프로젝트/기록.md",
     "Pasted image 20240211203822.png",
     "Area/Java/메서드/mapToObj.md",
     "LearnReact/Practice/setState_practice.jsx",
@@ -188,8 +191,6 @@
     "Area/프로그래밍개념/라우팅.md",
     "Area/프로그래밍개념/파싱.md",
     "Area/Java/메서드",
-    "Area/프로젝트/기록.md",
-    "Area/프로젝트/리액트 컴포넌트 구성.md",
     "LearnReact/2-hook/src/lib/MyReact.jsx",
     "LearnReact/2-hook/src/lib",
     "새 폴더/package-lock.json",
@@ -205,7 +206,6 @@
     "LearnReact/node_modules/serve-index/public/icons/page_white_word.png",
     "LearnReact/node_modules/serve-index/public/icons/page_white_world.png",
     "LearnReact/node_modules/serve-index/public/icons/page_white_width.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_visualstudio.png",
     "Area/프론트엔드/무제 파일.canvas",
     "무제 파일.canvas"
   ]
