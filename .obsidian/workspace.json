@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프로젝트/기록.md",
+                "file": "Area/프로젝트/공통 프로젝트 평가.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프로젝트/기록.md",
+                "file": "Area/프로젝트/공통 프로젝트 평가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/프로젝트/기록.md",
+                "file": "Area/프로젝트/공통 프로젝트 평가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/프로젝트/기록.md"
+                "file": "Area/프로젝트/공통 프로젝트 평가.md"
               }
             }
           }
@@ -160,9 +160,10 @@
   },
   "active": "4d207ea10775ecca",
   "lastOpenFiles": [
+    "Area/프로젝트/기록.md",
+    "Area/프로젝트/공통 프로젝트 평가.md",
     "Area/프론트엔드/React/리액트 포탈.md",
     "Area/프론트엔드/React/리액트 훅.md",
-    "Area/프로젝트/기록.md",
     "Pasted image 20240211203822.png",
     "Area/Java/메서드/mapToObj.md",
     "LearnReact/Practice/setState_practice.jsx",
@@ -189,7 +190,6 @@
     "Area/프로그래밍개념/토큰.md",
     "Area/프로그래밍개념/리팩토링.md",
     "Area/프로그래밍개념/라우팅.md",
-    "Area/프로그래밍개념/파싱.md",
     "Area/Java/메서드",
     "LearnReact/2-hook/src/lib/MyReact.jsx",
     "LearnReact/2-hook/src/lib",
