@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/특화프로젝트/아이디어회의.md",
+                "file": "Area/프로그래밍개념/라우팅.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 319.5
   },
   "right": {
     "id": "625d2063fbf2f3c3",
@@ -138,6 +138,45 @@
               "type": "google-calendar-view-schedule",
               "state": {}
             }
+          },
+          {
+            "id": "d2b95439f8b7db18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Area/프로그래밍개념/라우팅.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa1190791fbe1ed5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Area/프로그래밍개념/라우팅.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87ebb01dc866544f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Area/프로그래밍개념/라우팅.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -158,13 +197,13 @@
   },
   "active": "237d91a17c0e2869",
   "lastOpenFiles": [
+    "Area/백엔드/DBMS.md",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main5397.java~",
     "Area/프로그래밍개념/해싱.md",
     "Area/Java/Intellij.md",
     "Area/알고리즘/연결리스트.md",
     "Area/알고리즘/Spanning Tree.md",
     "Area/알고리즘/최소 신장 트리.md",
-    "Area/백엔드/DBMS.md",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main5397.java",
     "Area/프로젝트/기록.md",
     "Area/디자인패턴/디자인패턴.md",
@@ -194,7 +233,6 @@
     "Area/Java/InputStreamReader, OutputStreamWriter.md",
     "Area/Java/메서드",
     "LearnReact/2-hook/src/lib/MyReact.jsx",
-    "LearnReact/2-hook/src/lib",
     "Pasted image 20240116144250.png",
     "Pasted image 20240128101111.png",
     "LearnReact/node_modules/serve-index/public/icons/page_world.png",
