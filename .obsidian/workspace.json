@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프로그래밍개념/라우팅.md",
+                "file": "Area/특화프로젝트/아이디어회의.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프로그래밍개념/라우팅.md",
+                "file": "Area/특화프로젝트/아이디어회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/프로그래밍개념/라우팅.md",
+                "file": "Area/특화프로젝트/아이디어회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/프로그래밍개념/라우팅.md"
+                "file": "Area/특화프로젝트/아이디어회의.md"
               }
             }
           }
@@ -197,6 +197,9 @@
   },
   "active": "237d91a17c0e2869",
   "lastOpenFiles": [
+    "Area/특화프로젝트/데일리컨텐츠/GET, POST 방식의 차이점은.md",
+    "Area/프로그래밍개념/라우팅.md",
+    "Area/특화프로젝트/데일리컨텐츠",
     "Area/백엔드/DBMS.md",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main5397.java~",
     "Area/프로그래밍개념/해싱.md",
@@ -230,9 +233,7 @@
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1009.class",
     "Area/Java/메서드/메서드.md",
     "Area/Java/Stream.md",
-    "Area/Java/InputStreamReader, OutputStreamWriter.md",
     "Area/Java/메서드",
-    "LearnReact/2-hook/src/lib/MyReact.jsx",
     "Pasted image 20240116144250.png",
     "Pasted image 20240128101111.png",
     "LearnReact/node_modules/serve-index/public/icons/page_world.png",
