@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/특화프로젝트/아이디어회의.md",
+                "file": "Area/특화프로젝트/음성 AI 기술.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/특화프로젝트/아이디어회의.md",
+                "file": "Area/특화프로젝트/음성 AI 기술.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/특화프로젝트/아이디어회의.md",
+                "file": "Area/특화프로젝트/음성 AI 기술.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/특화프로젝트/아이디어회의.md"
+                "file": "Area/특화프로젝트/음성 AI 기술.md"
               }
             }
           }
@@ -197,6 +197,10 @@
   },
   "active": "237d91a17c0e2869",
   "lastOpenFiles": [
+    "Area/특화프로젝트/아이디어회의.md",
+    "Area/특화프로젝트/음성 AI 기술.md",
+    "Area/프로젝트/비대면 수산물 경매 시스템.md",
+    "Area/프로젝트/아이디어 구상.md",
     "Area/특화프로젝트/데일리컨텐츠/GET, POST 방식의 차이점은.md",
     "Area/프로그래밍개념/라우팅.md",
     "Area/특화프로젝트/데일리컨텐츠",
@@ -217,7 +221,6 @@
     "Area/백엔드/Spring Boot/폴더 구조.md",
     "Area/백엔드/Spring Boot/어노테이션.md",
     "Area/백엔드/Spring Boot/빌드관리도구(Maven, Gradle).md",
-    "Area/특화프로젝트/아이디어회의.md",
     "Area/무제 폴더",
     "Area/발견들/240221.md",
     "Area/발견들/240128.md",
@@ -228,11 +231,8 @@
     "Pasted image 20240211203822.png",
     "Area/Java/메서드/mapToObj.md",
     "LearnReact/Practice/setState_practice.jsx",
-    "Area/프론트엔드/React/리액트 메모.md",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1032.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1009.class",
-    "Area/Java/메서드/메서드.md",
-    "Area/Java/Stream.md",
     "Area/Java/메서드",
     "Pasted image 20240116144250.png",
     "Pasted image 20240128101111.png",
