@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/특화프로젝트/데일리컨텐츠/HTTP 와 HTTPS 의 차이.md",
+                "file": "Area/특화프로젝트/데일리컨텐츠/프레임워크와 라이브러리의 차이.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/특화프로젝트/데일리컨텐츠/HTTP 와 HTTPS 의 차이.md",
+                "file": "Area/특화프로젝트/데일리컨텐츠/프레임워크와 라이브러리의 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/특화프로젝트/데일리컨텐츠/HTTP 와 HTTPS 의 차이.md",
+                "file": "Area/특화프로젝트/데일리컨텐츠/프레임워크와 라이브러리의 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/특화프로젝트/데일리컨텐츠/HTTP 와 HTTPS 의 차이.md"
+                "file": "Area/특화프로젝트/데일리컨텐츠/프레임워크와 라이브러리의 차이.md"
               }
             }
           }
@@ -197,8 +197,11 @@
   },
   "active": "237d91a17c0e2869",
   "lastOpenFiles": [
-    "Area/특화프로젝트/데일리컨텐츠/GET, POST 방식의 차이점은.md",
     "Area/특화프로젝트/데일리컨텐츠/HTTP 와 HTTPS 의 차이.md",
+    "Area/특화프로젝트/데일리컨텐츠/GET, POST 방식의 차이점은.md",
+    "Area/특화프로젝트/데일리컨텐츠/프레임워크와 라이브러리의 차이.md",
+    "Area/Java/성능비교/StringBuilder.md",
+    "Area/Java/성능비교",
     "Area/특화프로젝트/음성 AI 기술.md",
     "Area/특화프로젝트/아이디어회의.md",
     "Area/프로젝트/비대면 수산물 경매 시스템.md",
@@ -226,14 +229,11 @@
     "Area/발견들/240221.md",
     "Area/발견들/240128.md",
     "Area/특화프로젝트/목표.md",
-    "Area/프로젝트/공통 프로젝트 평가.md",
     "Area/특화프로젝트",
-    "Area/프론트엔드/React/리액트 포탈.md",
     "Pasted image 20240211203822.png",
     "LearnReact/Practice/setState_practice.jsx",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1032.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1009.class",
-    "Area/Java/메서드",
     "Pasted image 20240116144250.png",
     "Pasted image 20240128101111.png",
     "LearnReact/node_modules/serve-index/public/icons/page_world.png",
