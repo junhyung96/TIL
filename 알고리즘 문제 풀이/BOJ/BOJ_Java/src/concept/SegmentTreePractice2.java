@@ -1,0 +1,7 @@
+package concept;
+
+public class SegmentTreePractice2 {
+    public static void main(String[] args) {
+
+    }
+}
