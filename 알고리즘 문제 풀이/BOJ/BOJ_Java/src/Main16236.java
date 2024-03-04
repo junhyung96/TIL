@@ -12,7 +12,7 @@ public class Main16236 {
     static int sx, sy;
     static int time = 0;
     static int[][] map;
-    static int[][] deltaSearch = {{-1, 0}, {0, -1}, {0, 1}, {1, 0}};
+    static int[][] deltaSearch = {{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
     static int[] bfs(int x, int y) {
         Queue<LinkedList<Integer>> queue = new LinkedList<>();
         LinkedList<Integer> list = new LinkedList<>();
@@ -23,6 +23,7 @@ public class Main16236 {
         boolean[][] visited = new boolean[N][N];
         visited[x][y] = true;
         ArrayList<int[]> fishes = new ArrayList<>();
+
         while(!queue.isEmpty()){
             LinkedList<Integer> list1 = queue.poll();
 //            System.out.println(list1);
@@ -53,12 +54,28 @@ public class Main16236 {
 //                return result;
             }
         }
+        Collections.sort(fishes, new Comparator<int[]>() {
+            @Override
+            public int compare(int[] o1, int[] o2) {
+                    if (o1[2] != o2[2])
+                return Integer.compare(o1[2], o2[2]);
+                    else if (o1[0] != o2[0])
+                        return Integer.compare(o1[0], o2[0]);
+                    else
+                        return Integer.compare(o1[1], o2[1]);
+            }
+
+        });
+//        for (int[] fish : fishes) {
+//            System.out.println(Arrays.toString(fish));
+//        }
+//        System.out.println("0000000000000000000000000");
 
         if (fishes.isEmpty()){
             int[] result = {0, 0, 0};
             return result;
         } else {
-
+            return fishes.get(0);
         }
     }
 
@@ -86,6 +103,7 @@ public class Main16236 {
 //            System.out.println(Arrays.toString(res) + "결과");
             sx = res[0];
             sy = res[1];
+//            System.out.println(sx + " " + sy);
             if (res[2] == 0) break;
             exp += 1;
             if (exp == babyShark){
@@ -99,3 +117,100 @@ public class Main16236 {
         System.out.println(time);
     }
 }
+
+//import java.io.BufferedReader;
+//import java.io.InputStreamReader;
+//import java.util.LinkedList;
+//import java.util.Queue;
+//import java.util.StringTokenizer;
+//
+//public class Main {
+//
+//    private static int M, N, date;
+//    private static int[][] box;
+//    private static Queue<Point> tomato;
+//    private static boolean[][] isVisited;
+//    private static int[][] delta = { { 1, 0 }, { -1, 0 }, { 0, 1 }, { 0, -1 } };
+//
+//    static class Point {
+//        int x, y;
+//
+//        public Point(int x, int y) {
+//            this.x = x;
+//            this.y = y;
+//        }
+//
+//        @Override
+//        public String toString() {
+//            return "Point [x=" + x + ", y=" + y + "]";
+//        }
+//
+//    }
+
+//    private static void bfs() {
+//
+//        while (!tomato.isEmpty()) {
+//            int size = tomato.size();
+//            for (int t = 0; t < size; t++) {
+//                Point p = tomato.poll();
+//                for (int i = 0; i < 4; i++) {
+//                    int nx = p.x + delta[i][0];
+//                    int ny = p.y + delta[i][1];
+//
+//                    if (nx < 0 || ny < 0 || nx >= N || ny >= M)
+//                        continue;
+//                    if (isVisited[nx][ny])
+//                        continue;
+//                    if (box[nx][ny] == 1 || box[nx][ny] == -1)
+//                        continue;
+//
+//                    isVisited[nx][ny] = true;
+//                    tomato.add(new Point(nx, ny));
+//                    box[nx][ny] = 1;
+//                }
+//
+//            }
+//            date++;
+//        }
+//    }
+
+//    public static void main(String[] args) throws Exception {
+//        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+//        StringTokenizer st = new StringTokenizer(br.readLine());
+//
+//        M = Integer.parseInt(st.nextToken());
+//        N = Integer.parseInt(st.nextToken());
+//        isVisited = new boolean[N][M];
+//        box = new int[N][M];
+//        tomato = new LinkedList<>();
+//        date = 0;
+//
+//        for (int i = 0; i < N; i++) {
+//            st = new StringTokenizer(br.readLine());
+//            for (int j = 0; j < M; j++) {
+//                box[i][j] = Integer.parseInt(st.nextToken());
+//                if (box[i][j] == 1) {
+//                    tomato.add(new Point(i, j));
+//                    isVisited[i][j] = true;
+//                }
+//            }
+//        }
+//
+//        bfs();
+//
+//        for (int i = 0; i < N; i++) {
+//            for (int j = 0; j < M; j++) {
+//                if (box[i][j] == 0) {
+//                    date = -1;
+//                    break;
+//                }
+//            }
+//        }
+//
+//        if (date == -1) {
+//            System.out.println(date);
+//        } else {
+//            System.out.println(date - 1);
+//        }
+//    }
+//}
