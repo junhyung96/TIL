@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "51efc0cd5edc9e42",
+        "id": "94c3ebf2ea8951f7",
         "type": "tabs",
         "children": [
           {
-            "id": "001d336e46f02621",
+            "id": "5533cb2d4485231b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/Java/자료구조/Queue.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -124,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/Java/자료구조/Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/Java/자료구조/Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Area/Java/자료구조/Queue.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -174,21 +166,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "001d336e46f02621",
+  "active": "5533cb2d4485231b",
   "lastOpenFiles": [
-    "Area/Java/자료구조/Queue.md",
-    "Area/Java/성능비교/StringBuilder.md",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/src/concept/Main1043.java",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1991.class",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main1991.java",
-    "Area/알고리즘/세그먼트 트리.md",
-    "Area/Java/자료구조",
+    "알고리즘 문제 풀이/BOJ/아기상어.py",
+    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main16236.class",
+    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/QueuePractice.class",
+    "알고리즘 문제 풀이/BOJ/BOJ_Java/src/QueuePractice.java",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main2644.class",
+    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1991.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main16226.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1406.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1302.class",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1168.class",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1158.class",
+    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/DisjointSet.class",
+    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Edge.class",
+    "Area/인프라/DNS.md",
+    "Area/인프라/정보.md",
+    "Area/Java/자료구조/Queue.md",
+    "Area/Java/성능비교/StringBuilder.md",
+    "Area/알고리즘/세그먼트 트리.md",
     "Area/알고리즘/구간 질의.md",
     "Area/알고리즘/point update.md",
     "Area/알고리즘/Spanning Tree.md",
@@ -209,8 +204,6 @@
     "Area/디자인패턴/디자인패턴.md",
     "Area/프론트엔드/React/리액트 훅.md",
     "Area/백엔드/Spring Boot/시작하기.md",
-    "Area/백엔드/Spring Boot/Java Spring.md",
-    "Area/백엔드/Spring Boot/폴더 구조.md",
     "Pasted image 20240211203822.png",
     "Pasted image 20240116144250.png",
     "Pasted image 20240128101111.png",
