@@ -1,3 +1,8 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
 //import java.io.BufferedReader;
 //import java.io.IOException;
 //import java.io.InputStreamReader;
@@ -7,6 +12,22 @@
 //// 강산이가 비밀번호 창에서 입력한 키가 주어졌을 때, 강산이의 비밀번호를 알아내는 프로그램을 작성하시오.
 //// 1. 스택에 넣어서 인덱스 값으로 지우고 추가하기
 //// 2. 연결리스트 사용
+public class Main5397 {
+    // cursor 위치 판별
+    static int cursor;
+    static String[] data = new String[100_000_100];
+    static String[] pre = new String[100_000_100];
+    static String[] nxt = new String[100_000_100];
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int testCase = Integer.parseInt(br.readLine());
+
+        for(int tc=0; tc < testCase; tc++){
+            String keyLog = br.readLine();
+
+        }
+    }
+}
 //
 //public class Main5397 {
 //    // 양방향 연결 리스트 구현
