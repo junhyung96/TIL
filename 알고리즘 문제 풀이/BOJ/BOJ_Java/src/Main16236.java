@@ -63,7 +63,7 @@ public class Main16236 {
                         return Integer.compare(o1[0], o2[0]);
                     else
                         return Integer.compare(o1[1], o2[1]);
-            }
+                                                                                                                                            }
 
         });
 //        for (int[] fish : fishes) {
