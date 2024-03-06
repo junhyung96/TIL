@@ -15,8 +15,8 @@ import java.util.StringTokenizer;
 //// 2. 연결리스트 사용
 public class Main5397 {
     // cursor 위치 판별
-    static int cursor = 0;
-    static int max_cursor = 0;
+    static int cursor;
+    static int max_cursor;
     static char[] data;
     static int[] pre;
     static int[] nxt;
@@ -27,10 +27,12 @@ public class Main5397 {
         int testCase = Integer.parseInt(br.readLine());
 
         for(int tc=0; tc < testCase; tc++){
+            cursor = 0;
+            max_cursor = 0;
             sb = new StringBuilder();
-            data = new char[100_000_100];
-            pre = new int[100_000_100];
-            nxt = new int[100_000_100];
+            data = new char[1_000_100];
+            pre = new int[1_000_100];
+            nxt = new int[1_000_100];
             data[0] = '-';
             pre[0] = -1;
             nxt[0] = -1;
@@ -40,31 +42,39 @@ public class Main5397 {
                 // 키 입력에 대해서 로직 구현
                 switch (keyLog.charAt(i)){
                     case '<': {
+//                        System.out.println(cursor);
                         if (cursor == 0) break;
+//                        System.out.println(pre[cursor]);
                         cursor = pre[cursor];
+//                        System.out.println(cursor);
                     } break;
                     case '>': {
+//                        System.out.println(cursor);
                         if (nxt[cursor] == -1) break;
                         cursor = nxt[cursor];
                     } break;
                     case '-' : {
+//                        System.out.println(cursor);
                         if (cursor == 0) break;
                         nxt[pre[cursor]] = nxt[cursor];
                         if (nxt[cursor] != -1) {
-                        pre[nxt[cursor]] = pre[cursor];
+                            pre[nxt[cursor]] = pre[cursor];
                         }
+                        cursor = pre[cursor];
                     } break;
                     default: {
+//                        System.out.println(keyLog.charAt(i) + " " + cursor + " " + max_cursor);
                         max_cursor += 1;
                         data[max_cursor] = keyLog.charAt(i);
                         pre[max_cursor] = cursor;
+//                        System.out.println(max_cursor + "max" + cursor + " cur" + pre[max_cursor]);
                         nxt[max_cursor] = nxt[cursor];
 
-                        nxt[cursor] = max_cursor;
-                        if (nxt[cursor] != -1) {
+//                        nxt[cursor] = max_cursor;
+                        if (nxt[max_cursor] != -1) {
                             pre[nxt[cursor]] = max_cursor;
                         }
-
+                        nxt[cursor] = max_cursor;
                         cursor = max_cursor;
                     }
                 }
@@ -73,90 +83,12 @@ public class Main5397 {
 //            System.out.println(Arrays.toString(data));
             while (true){
                 if (nxt[idx] == -1) break;
-                System.out.println(nxt[idx] + " " + data[nxt[idx]]);
+//                System.out.println(nxt[idx] + " " + data[nxt[idx]]);
                 sb.append(data[nxt[idx]]);
+//                System.out.println(nxt[idx] + " " + data[nxt[idx]]);
                 idx = nxt[idx];
             }
             System.out.println(sb);
         }
     }
 }
-//
-//public class Main5397 {
-//    // 양방향 연결 리스트 구현
-//    class Node {
-//        // 하나의 노드는 값(data), 앞의 노드의 값, 뒤의 노드의 값을 가지고 있다.
-//        char data;
-//        Node prev;
-//        Node next;
-//
-//        Node(char data) {
-//            this.data = data;
-//            this.prev = null;
-//            this.next = null;
-//        }
-//    }
-//
-//    public class DoublyLinkedList {
-//        Node head;
-//        Node tail;
-//
-//        DoublyLinkedList() {
-//            head = null;
-//            tail = null;
-//        }
-//
-//        // 연결 리스트 끝에 새로운 노드 추가
-//        public void append(char data) {
-//            Node newNode = new Node(data);
-//            if (head == null) {
-//                head = newNode;
-//                tail = newNode;
-//                return;
-//            }
-//            tail.next = newNode;
-//            newNode.prev = tail;
-//            tail = newNode;
-//        }
-//
-//        // 연결 리스트 중간에 새로운 노드 추가
-//        public void insertAfter(Node prevNode, char data) {
-//            if (prevNode == null) {
-//                return;
-//            }
-//            Node newNode = new Node(data);
-//            newNode.next = prevNode.next;
-//            if (prevNode.next != null) {
-//                prevNode.next.prev = newNode;
-//            } else {
-//                tail = newNode;
-//            }
-//            prevNode.next = newNode;
-//            newNode.prev = prevNode;
-//        }
-//    }
-//
-//    public static void main(String[] args) throws IOException {
-//        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-//
-//        int T = Integer.parseInt(br.readLine());
-//        String currentNode;
-//
-//        for (int testcase = 0; testcase < T; testcase++) {
-//            DoublyLinkedList list = new DoublyLinkedList();
-//            int currentIndex = 0;
-//            int lastIndex = 0;
-//            String keyLog = br.readLine();
-//            keyLog.chars().forEach(key -> {
-//                if (currentIndex == 0 && key == '<') return;
-//                if (currentIndex == lastIndex && key == '>') return;
-//
-//                if (key != '<' && key != '>' && key != '-') {
-//                    if (currentIndex == lastIndex) {
-//                        DoublyLinkedList.append('c');
-//                    }
-//                }
-//            });
-//        }
-//    }
-//}
