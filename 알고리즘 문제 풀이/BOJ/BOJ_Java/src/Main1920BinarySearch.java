@@ -6,8 +6,8 @@ import java.util.StringTokenizer;
 
 // 특정 값 조회
 // 해시맵 생각보다 느림
-public class Main1920 {
-    static boolean[] isNumber;
+public class Main1920BinarySearch {
+    static int[] isNumber;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
