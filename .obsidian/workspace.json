@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/백엔드/Spring Boot/시작하기.md",
+                "file": "Area/특화프로젝트/데일리컨텐츠/GET, POST 방식의 차이점은.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/백엔드/Spring Boot/시작하기.md",
+                "file": "Area/특화프로젝트/데일리컨텐츠/GET, POST 방식의 차이점은.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/백엔드/Spring Boot/시작하기.md",
+                "file": "Area/특화프로젝트/데일리컨텐츠/GET, POST 방식의 차이점은.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/백엔드/Spring Boot/시작하기.md"
+                "file": "Area/특화프로젝트/데일리컨텐츠/GET, POST 방식의 차이점은.md"
               }
             }
           }
@@ -175,8 +175,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4425823cb8be97f2",
+  "active": "5533cb2d4485231b",
   "lastOpenFiles": [
+    "Area/특화프로젝트/데일리컨텐츠/SPA에 대해 설명해보세요..md",
+    "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main1874.java",
+    "Area/백엔드/Spring Boot/시작하기.md",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main5397.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main5397.java~",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/QueuePractice.class",
@@ -186,8 +189,6 @@
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1168.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1021.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/concept/SegmentTreePractice2.class",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/concept/SegmentTreePractice1.class",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/concept/Main1043.class",
     "Area/특화프로젝트/데일리컨텐츠/프레임워크와 라이브러리의 차이.md",
     "Area/특화프로젝트/데일리컨텐츠/HTTP 와 HTTPS 의 차이.md",
     "Area/특화프로젝트/목표.md",
@@ -211,8 +212,6 @@
     "Area/프로젝트/비대면 수산물 경매 시스템.md",
     "Area/프로젝트/아이디어 구상.md",
     "Area/프로그래밍개념/라우팅.md",
-    "Area/프로그래밍개념/해싱.md",
-    "Area/Java/Intellij.md",
     "Pasted image 20240211203822.png",
     "Pasted image 20240116144250.png",
     "Pasted image 20240128101111.png",
