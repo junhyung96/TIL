@@ -15,8 +15,8 @@ import java.util.StringTokenizer;
 //// 2. 연결리스트 사용
 public class Main5397 {
     // cursor 위치 판별
-    static int cursor = 0;
-    static int max_cursor = 0;
+    static int cursor;
+    static int max_cursor;
     static char[] data;
     static int[] pre;
     static int[] nxt;
@@ -27,10 +27,12 @@ public class Main5397 {
         int testCase = Integer.parseInt(br.readLine());
 
         for(int tc=0; tc < testCase; tc++){
+            cursor = 0;
+            max_cursor = 0;
             sb = new StringBuilder();
-            data = new char[100_000_100];
-            pre = new int[100_000_100];
-            nxt = new int[100_000_100];
+            data = new char[1_000_100];
+            pre = new int[1_000_100];
+            nxt = new int[1_000_100];
             data[0] = '-';
             pre[0] = -1;
             nxt[0] = -1;
@@ -53,6 +55,7 @@ public class Main5397 {
                         if (nxt[cursor] != -1) {
                         pre[nxt[cursor]] = pre[cursor];
                         }
+                        cursor = pre[cursor];
                     } break;
                     default: {
                         max_cursor += 1;
@@ -61,7 +64,7 @@ public class Main5397 {
                         nxt[max_cursor] = nxt[cursor];
 
                         nxt[cursor] = max_cursor;
-                        if (nxt[cursor] != -1) {
+                        if (nxt[max_cursor] != -1) {
                             pre[nxt[cursor]] = max_cursor;
                         }
 
@@ -73,11 +76,11 @@ public class Main5397 {
 //            System.out.println(Arrays.toString(data));
             while (true){
                 if (nxt[idx] == -1) break;
-                System.out.println(nxt[idx] + " " + data[nxt[idx]]);
+//                System.out.println(nxt[idx] + " " + data[nxt[idx]]);
                 sb.append(data[nxt[idx]]);
                 idx = nxt[idx];
             }
-            System.out.println(sb);
+            System.out.print(sb);
         }
     }
 }
