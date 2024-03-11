@@ -70,6 +70,7 @@ public class Main5397 {
 //                        System.out.println(max_cursor + "max" + cursor + " cur" + pre[max_cursor]);
                         nxt[max_cursor] = nxt[cursor];
 
+                        nxt[cursor] = max_cursor;
 //                        nxt[cursor] = max_cursor;
                         if (nxt[max_cursor] != -1) {
                             pre[nxt[cursor]] = max_cursor;
@@ -88,7 +89,7 @@ public class Main5397 {
 //                System.out.println(nxt[idx] + " " + data[nxt[idx]]);
                 idx = nxt[idx];
             }
-            System.out.println(sb);
+            System.out.print(sb);
         }
     }
 }
