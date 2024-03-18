@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/특화프로젝트/백엔드 일지.md",
+                "file": "Area/특화프로젝트/인프라 일지.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/특화프로젝트/백엔드 일지.md",
+                "file": "Area/특화프로젝트/인프라 일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/특화프로젝트/백엔드 일지.md",
+                "file": "Area/특화프로젝트/인프라 일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/특화프로젝트/백엔드 일지.md"
+                "file": "Area/특화프로젝트/인프라 일지.md"
               }
             }
           }
@@ -177,22 +177,32 @@
   },
   "active": "5533cb2d4485231b",
   "lastOpenFiles": [
-    "Area/백엔드/Spring Boot/폴더 구조.md",
-    "Area/백엔드/Spring Boot/Entity.md",
-    "Area/백엔드/Spring Boot/Service.md",
-    "Area/백엔드/Spring Boot/어노테이션.md",
-    "Area/백엔드/Spring Boot/시작하기.md",
+    "Area/프로젝트/웹 큐레이팅.md",
+    "Area/프로젝트/열품타.md",
+    "Area/프로젝트/역할분배.md",
+    "Area/프로젝트/아키텍처 설계.md",
+    "Area/프로젝트/아이디어 구상.md",
+    "Area/프로젝트/메모.md",
+    "Area/프로젝트/기록.md",
+    "Area/프로젝트/공통 프로젝트 평가.md",
+    "Area/프로젝트/리액트 컴포넌트 구성.md",
+    "Area/프로젝트/비대면 수산물 경매 시스템.md",
+    "Area/프로젝트/아이디어.md",
+    "Area/프로젝트/사용되는 기술.md",
+    "Area/프로젝트/악기 연주.md",
     "Area/특화프로젝트/인프라 일지.md",
+    "Area/특화프로젝트/음성 AI 기술.md",
+    "Area/특화프로젝트/아이디어회의.md",
     "Area/특화프로젝트/백엔드 일지.md",
     "Area/특화프로젝트/목표.md",
-    "Area/인프라/젠킨스 플러그인.md",
-    "Area/인프라/정보.md",
-    "Area/인프라/DNS.md",
-    "Area/인프라/NGINX.md",
-    "Area/인프라/도커 컨테이너 - 젠킨스 설치.md",
-    "Area/인프라/ufw 설정 순서.md",
+    "Area/특화프로젝트/데일리컨텐츠/REST.md",
+    "Area/특화프로젝트/데일리컨텐츠/ORM.md",
+    "Area/특화프로젝트/데일리컨텐츠/HTTP 와 HTTPS 의 차이.md",
     "Area/특화프로젝트/데일리컨텐츠/GET, POST 방식의 차이점은.md",
-    "Area/특화프로젝트/데일리컨텐츠/SPA에 대해 설명해보세요..md",
+    "Area/특화프로젝트/데일리컨텐츠/프론트엔드, 백엔드 개발자로서.md",
+    "Area/특화프로젝트/데일리컨텐츠/SPA.md",
+    "Area/특화프로젝트/데일리컨텐츠/프레임워크와 라이브러리의 차이.md",
+    "Area/인프라/ufw 설정 순서.md",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main1874.java",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main5397.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main5397.java~",
@@ -203,16 +213,6 @@
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1168.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1021.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/concept/SegmentTreePractice2.class",
-    "Area/특화프로젝트/데일리컨텐츠/프레임워크와 라이브러리의 차이.md",
-    "Area/특화프로젝트/데일리컨텐츠/HTTP 와 HTTPS 의 차이.md",
-    "Area/Java/자료구조/Queue.md",
-    "Area/Java/성능비교/StringBuilder.md",
-    "Area/알고리즘/세그먼트 트리.md",
-    "Area/Java/자료구조/Queue.md",
-    "Area/Java/성능비교/StringBuilder.md",
-    "Area/알고리즘/세그먼트 트리.md",
-    "Area/알고리즘/구간 질의.md",
-    "Area/알고리즘/point update.md",
     "Pasted image 20240211203822.png",
     "Pasted image 20240116144250.png",
     "Pasted image 20240128101111.png",
