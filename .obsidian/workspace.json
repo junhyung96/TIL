@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md",
+                "file": "Area/특화프로젝트/데일리컨텐츠/마지막으로 하고 싶은 말 있으면 하세요.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md",
+                "file": "Area/특화프로젝트/데일리컨텐츠/마지막으로 하고 싶은 말 있으면 하세요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md",
+                "file": "Area/특화프로젝트/데일리컨텐츠/마지막으로 하고 싶은 말 있으면 하세요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md"
+                "file": "Area/특화프로젝트/데일리컨텐츠/마지막으로 하고 싶은 말 있으면 하세요.md"
               }
             }
           }
@@ -188,9 +188,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4425823cb8be97f2",
+  "active": "2b0fcc79c0d9e680",
   "lastOpenFiles": [
     "Area/특화프로젝트/백엔드 일지.md",
+    "Area/특화프로젝트/데일리컨텐츠/마지막으로 하고 싶은 말 있으면 하세요.md",
+    "Area/프로젝트/기록.md",
     "Area/특화프로젝트/인프라 일지.md",
     "Area/프로젝트/공통 프로젝트 평가.md",
     "Area/기타/메모 - 종례 등.md",
@@ -202,7 +204,6 @@
     "Area/프로젝트/아키텍처 설계.md",
     "Area/프로젝트/아이디어 구상.md",
     "Area/프로젝트/메모.md",
-    "Area/프로젝트/기록.md",
     "Area/프로젝트/리액트 컴포넌트 구성.md",
     "Area/프로젝트/비대면 수산물 경매 시스템.md",
     "Area/프로젝트/아이디어.md",
@@ -215,7 +216,6 @@
     "Area/특화프로젝트/데일리컨텐츠/ORM.md",
     "Area/특화프로젝트/데일리컨텐츠/HTTP 와 HTTPS 의 차이.md",
     "Area/특화프로젝트/데일리컨텐츠/GET, POST 방식의 차이점은.md",
-    "Area/특화프로젝트/데일리컨텐츠/프론트엔드, 백엔드 개발자로서.md",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main1874.java",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main5397.class",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main5397.java~",
