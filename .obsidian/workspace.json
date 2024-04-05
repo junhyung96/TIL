@@ -1,68 +1,39 @@
 {
   "main": {
-    "id": "bc5601f38bc5dc9f",
+    "id": "40488af8d79983d6",
     "type": "split",
     "children": [
       {
-        "id": "94c3ebf2ea8951f7",
+        "id": "54de027aa32f2c0a",
         "type": "tabs",
         "children": [
           {
-            "id": "2b0fcc79c0d9e680",
+            "id": "8b4163baf77695d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b977dc408fd5be85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Area/플러터/시작하기.md",
-=======
-                "file": "Area/특화프로젝트/인프라 일지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c35524b5ebc9f5bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md",
->>>>>>> 838187765ff0525512da73829ba630c206b0b8cf
+                "file": "Area/소프트웨어 개발/소프트웨어 개발.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3b7d495ba3699d05",
+    "id": "fc232a174932ee58",
     "type": "split",
     "children": [
       {
-        "id": "fea8df76465f888b",
+        "id": "454d6dd6660de9d4",
         "type": "tabs",
         "children": [
           {
-            "id": "4425823cb8be97f2",
+            "id": "6ce5a7409e0754aa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,7 +43,7 @@
             }
           },
           {
-            "id": "585e7f562f090284",
+            "id": "ca1663ac76d7b477",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -87,89 +58,34 @@
             }
           },
           {
-            "id": "eacc248b5378d53a",
+            "id": "b8c7f7b37cb063f7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
-            }
-          },
-          {
-            "id": "e0243e9973e0099a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/프론트엔드/React/리액트 훅.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5533cb2d4485231b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/프로젝트/기록.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 300
   },
   "right": {
-    "id": "625d2063fbf2f3c3",
+    "id": "bcfccc4e628b8ce3",
     "type": "split",
     "children": [
       {
-        "id": "e8a451c96764a1dd",
+        "id": "e5066fbcb99aac8d",
         "type": "tabs",
         "children": [
           {
-            "id": "5c632a884f68b753",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "d28f0bc29c65dfbc",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-day",
-              "state": {}
-            }
-          },
-          {
-            "id": "4145e291e1e50bfa",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-schedule",
-              "state": {}
-            }
-          },
-          {
-            "id": "d2b95439f8b7db18",
+            "id": "09434250e157d397",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Area/플러터/시작하기.md",
-=======
-                "file": "Area/특화프로젝트/인프라 일지.md",
->>>>>>> 838187765ff0525512da73829ba630c206b0b8cf
+                "file": "Area/소프트웨어 개발/소프트웨어 개발.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,41 +97,43 @@
             }
           },
           {
-            "id": "fa1190791fbe1ed5",
+            "id": "f3fed033095bbc68",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Area/플러터/시작하기.md",
-=======
-                "file": "Area/특화프로젝트/인프라 일지.md",
->>>>>>> 838187765ff0525512da73829ba630c206b0b8cf
+                "file": "Area/소프트웨어 개발/소프트웨어 개발.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "87ebb01dc866544f",
+            "id": "930878ba402fadb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51a42bcdacd3eb31",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Area/플러터/시작하기.md"
-=======
-                "file": "Area/특화프로젝트/인프라 일지.md"
->>>>>>> 838187765ff0525512da73829ba630c206b0b8cf
+                "file": "Area/소프트웨어 개발/소프트웨어 개발.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 422.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -228,79 +146,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-<<<<<<< HEAD
-  "active": "b977dc408fd5be85",
+  "active": "8b4163baf77695d2",
   "lastOpenFiles": [
+    "Area/소프트웨어 개발/스크럼.md",
+    "images/scrum.png",
+    "images",
+    "Area/소프트웨어 개발/Agile Software Development.md",
+    "Area/프로그래밍개념/REPL.md",
+    "Area/프로그래밍개념/Scale Up, Out.md",
+    "Area/프로그래밍개념/Untitled.md",
     "Area/프로그래밍개념/IDE.md",
-    "Area/플러터/시작하기.md",
-    "Area/특화프로젝트/인프라 일지.md",
-    "Area/플러터",
-    "Area/특화프로젝트/아이디어회의.md",
-    "Area/특화프로젝트/백엔드 일지.md",
-    "Area/프로젝트/기록.md",
-    "Area/특화프로젝트/프론트엔드 일지.md",
-    "Area/특화프로젝트/음성 AI 기술.md",
-    "Area/인프라/도커 컨테이너 - 젠킨스 설치.md",
-    "Area/인프라/정보.md",
-    "Area/인프라/젠킨스 플러그인.md",
-    "Area/인프라/DNS.md",
-    "Area/인프라/ufw 설정 순서.md",
-    "Area/인프라/Redis.md",
-    "Area/인프라/NGINX.md",
-    "Area/특화프로젝트/데일리컨텐츠/마지막으로 하고 싶은 말 있으면 하세요.md",
-=======
-  "active": "c35524b5ebc9f5bf",
-  "lastOpenFiles": [
-    "Area/특화프로젝트/데일리컨텐츠/마지막으로 하고 싶은 말 있으면 하세요.md",
-    "Area/특화프로젝트/백엔드 일지.md",
-    "Area/프로젝트/기록.md",
-    "Area/특화프로젝트/인프라 일지.md",
->>>>>>> 838187765ff0525512da73829ba630c206b0b8cf
-    "Area/프로젝트/공통 프로젝트 평가.md",
-    "Area/기타/메모 - 종례 등.md",
-    "Area/인프라/Redis.md",
-    "Area/기타/무제 파일.md",
-    "Area/프로젝트/웹 큐레이팅.md",
-    "Area/프로젝트/열품타.md",
-    "Area/프로젝트/역할분배.md",
-    "Area/프로젝트/아키텍처 설계.md",
-    "Area/프로젝트/아이디어 구상.md",
-    "Area/프로젝트/메모.md",
-    "Area/프로젝트/리액트 컴포넌트 구성.md",
-<<<<<<< HEAD
-=======
-    "Area/프로젝트/비대면 수산물 경매 시스템.md",
-    "Area/프로젝트/아이디어.md",
-    "Area/프로젝트/사용되는 기술.md",
-    "Area/프로젝트/악기 연주.md",
-    "Area/특화프로젝트/음성 AI 기술.md",
-    "Area/특화프로젝트/아이디어회의.md",
-    "Area/특화프로젝트/목표.md",
-    "Area/특화프로젝트/데일리컨텐츠/REST.md",
-    "Area/특화프로젝트/데일리컨텐츠/ORM.md",
-    "Area/특화프로젝트/데일리컨텐츠/HTTP 와 HTTPS 의 차이.md",
-    "Area/특화프로젝트/데일리컨텐츠/GET, POST 방식의 차이점은.md",
->>>>>>> 838187765ff0525512da73829ba630c206b0b8cf
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main1874.java",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main5397.class",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main5397.java~",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/QueuePractice.class",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1991.class",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main16236.class",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main16236$1.class",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1168.class",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main1021.class",
-    "Pasted image 20240211203822.png",
-    "Pasted image 20240116144250.png",
-    "Pasted image 20240128101111.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_world.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_word.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_zip.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_wrench.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_word.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_world.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_width.png",
-    "Area/프론트엔드/무제 파일.canvas",
-    "무제 파일.canvas"
+    "Area/프로그래밍개념/API.md",
+    "Area/프로그래밍개념/해싱.md",
+    "Area/프로그래밍개념/파싱.md",
+    "Area/프로그래밍개념/토큰.md",
+    "Area/프로그래밍개념/절차적 언어.md",
+    "Area/프로그래밍개념/리버스 프록시.md",
+    "Area/프로그래밍개념/라우팅.md",
+    "Area/프로그래밍개념/객체 지향 언어.md",
+    "Area/소프트웨어 개발/소프트웨어 개발.md",
+    "Area/소프트웨어 개발"
   ]
 }
