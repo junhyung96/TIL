@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/소프트웨어 개발/소프트웨어 개발.md",
+                "file": "Area/알고리즘/세그먼트 트리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9763a2fee318dce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/알고리즘/세그먼트 트리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e951e45024c5e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/알고리즘/세그먼트 트리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bcfccc4e628b8ce3",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/소프트웨어 개발/소프트웨어 개발.md",
+                "file": "Area/알고리즘/세그먼트 트리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/소프트웨어 개발/소프트웨어 개발.md",
+                "file": "Area/알고리즘/세그먼트 트리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/소프트웨어 개발/소프트웨어 개발.md"
+                "file": "Area/알고리즘/세그먼트 트리.md"
               }
             }
           }
@@ -146,8 +172,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8b4163baf77695d2",
+  "active": "9763a2fee318dce2",
   "lastOpenFiles": [
+    "Area/알고리즘/구간 질의.md",
+    "Area/알고리즘/세그먼트 트리.md",
+    "Area/소프트웨어 개발/소프트웨어 개발.md",
     "Area/소프트웨어 개발/스크럼.md",
     "images/scrum.png",
     "images",
@@ -164,7 +193,6 @@
     "Area/프로그래밍개념/리버스 프록시.md",
     "Area/프로그래밍개념/라우팅.md",
     "Area/프로그래밍개념/객체 지향 언어.md",
-    "Area/소프트웨어 개발/소프트웨어 개발.md",
     "Area/소프트웨어 개발"
   ]
 }
