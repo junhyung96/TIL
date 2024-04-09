@@ -1,2 +1,1 @@
-i = 0
-print((i & 1) == 0)
+print(round(0.445, 2))

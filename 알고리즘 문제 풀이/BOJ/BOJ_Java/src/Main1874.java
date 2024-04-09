@@ -27,7 +27,5 @@ public class Main1874 {
             stack[top] = i+1;
             sb.append("+\n");
             }
-        if (top == -1) System.out.println(sb);
-        else System.out.println("NO");
     }
 }
