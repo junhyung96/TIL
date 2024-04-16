@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "94c3ebf2ea8951f7",
+        "id": "d17ac80996001df4",
         "type": "tabs",
         "children": [
           {
-            "id": "5533cb2d4485231b",
+            "id": "fb7260e5169a5aa1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/프로젝트/기록.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b0fcc79c0d9e680",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c35524b5ebc9f5bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/프론트엔드/Kotlin/기본개념.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프로젝트/기록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/프로젝트/기록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Area/프로젝트/기록.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -200,8 +167,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4425823cb8be97f2",
+  "active": "fb7260e5169a5aa1",
   "lastOpenFiles": [
+    "Area/프로젝트/기록.md",
+    "Area/특화프로젝트/인프라 일지.md",
+    "Area/프론트엔드/Next.js.md",
+    "Area/데일리컨텐츠/CSR vs SSR.md",
+    "Area/데일리컨텐츠/SPA.md",
+    "Area/데일리컨텐츠/REST.md",
     "알고리즘 문제 풀이/BOJ/커피숍_2.py",
     "알고리즘 문제 풀이/BOJ/커피숍_2.c",
     "알고리즘 문제 풀이/BOJ/주사위_굴리기.py",
@@ -217,11 +190,9 @@
     "Area/소프트웨어 개발/소프트웨어 개발.md",
     "Area/소프트웨어 개발/Agile Software Development.md",
     "Area/소프트웨어 개발",
-    "Area/특화프로젝트/인프라 일지.md",
     "Area/특화프로젝트/프론트엔드 일지.md",
-    "Area/특화프로젝트/데일리컨텐츠/마지막으로 하고 싶은 말 있으면 하세요.md",
+    "Area/데일리컨텐츠/마지막으로 하고 싶은 말 있으면 하세요.md",
     "Area/특화프로젝트/백엔드 일지.md",
-    "Area/프로젝트/기록.md",
     "Area/프로젝트/공통 프로젝트 평가.md",
     "Area/기타/메모 - 종례 등.md",
     "Area/인프라/Redis.md",
@@ -233,12 +204,8 @@
     "Area/프로젝트/아이디어 구상.md",
     "Area/프로젝트/메모.md",
     "Area/프로젝트/리액트 컴포넌트 구성.md",
-    "Area/프로젝트/비대면 수산물 경매 시스템.md",
-    "Area/프로젝트/아이디어.md",
-    "Area/프로젝트/사용되는 기술.md",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main1874.java",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main5397.class",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main5397.java~",
     "Pasted image 20240211203822.png",
     "Pasted image 20240116144250.png",
     "Pasted image 20240128101111.png",
