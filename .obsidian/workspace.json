@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d17ac80996001df4",
+        "id": "6846d0a8008cbf5c",
         "type": "tabs",
         "children": [
           {
-            "id": "fb7260e5169a5aa1",
+            "id": "f554b608cec4d691",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Area/프론트엔드/테스트코드 작성법.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -120,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Area/프론트엔드/테스트코드 작성법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Area/프론트엔드/테스트코드 작성법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Area/프론트엔드/테스트코드 작성법.md"
+              }
             }
           }
         ],
@@ -167,10 +175,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fb7260e5169a5aa1",
+  "active": "f554b608cec4d691",
   "lastOpenFiles": [
-    "Area/프로젝트/기록.md",
+    "images/Pasted image 20240418140902.png",
+    "images/Pasted image 20240418140916.png",
+    "Area/프론트엔드/테스트코드 작성법.md",
+    "images/Pasted image 20240418141157.png",
+    "images/Pasted image 20240418141135.png",
+    "images/Pasted image 20240418141127.png",
+    "Pasted image 20240418140652.png",
     "Area/특화프로젝트/인프라 일지.md",
+    "Area/인프라/CICD.md",
+    "Area/인프라/정보.md",
+    "Area/프로젝트/기록.md",
     "Area/프론트엔드/Next.js.md",
     "Area/데일리컨텐츠/CSR vs SSR.md",
     "Area/데일리컨텐츠/SPA.md",
@@ -200,21 +217,11 @@
     "Area/프로젝트/웹 큐레이팅.md",
     "Area/프로젝트/열품타.md",
     "Area/프로젝트/역할분배.md",
-    "Area/프로젝트/아키텍처 설계.md",
-    "Area/프로젝트/아이디어 구상.md",
-    "Area/프로젝트/메모.md",
-    "Area/프로젝트/리액트 컴포넌트 구성.md",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main1874.java",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main5397.class",
     "Pasted image 20240211203822.png",
     "Pasted image 20240116144250.png",
     "Pasted image 20240128101111.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_world.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_word.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_zip.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_wrench.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_word.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_world.png",
     "Area/프론트엔드/무제 파일.canvas",
     "무제 파일.canvas"
   ]
