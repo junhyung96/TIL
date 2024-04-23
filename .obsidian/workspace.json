@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프론트엔드/테스트코드 작성법.md",
+                "file": "Area/자율프로젝트/인프라 일지(자율).md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프론트엔드/테스트코드 작성법.md",
+                "file": "Area/자율프로젝트/인프라 일지(자율).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/프론트엔드/테스트코드 작성법.md",
+                "file": "Area/자율프로젝트/인프라 일지(자율).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/프론트엔드/테스트코드 작성법.md"
+                "file": "Area/자율프로젝트/인프라 일지(자율).md"
               }
             }
           }
@@ -177,14 +177,17 @@
   },
   "active": "f554b608cec4d691",
   "lastOpenFiles": [
+    "Area/특화프로젝트/인프라 일지.md",
+    "Area/자율프로젝트/인프라 일지(자율).md",
+    "Area/자율프로젝트/중간발표.md",
+    "Area/프론트엔드/테스트코드 작성법.md",
+    "Area/자율프로젝트",
     "images/Pasted image 20240418140902.png",
     "images/Pasted image 20240418140916.png",
-    "Area/프론트엔드/테스트코드 작성법.md",
     "images/Pasted image 20240418141157.png",
     "images/Pasted image 20240418141135.png",
     "images/Pasted image 20240418141127.png",
     "Pasted image 20240418140652.png",
-    "Area/특화프로젝트/인프라 일지.md",
     "Area/인프라/CICD.md",
     "Area/인프라/정보.md",
     "Area/프로젝트/기록.md",
@@ -216,9 +219,7 @@
     "Area/기타/무제 파일.md",
     "Area/프로젝트/웹 큐레이팅.md",
     "Area/프로젝트/열품타.md",
-    "Area/프로젝트/역할분배.md",
     "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main1874.java",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/out/production/BOJ_Java/Main5397.class",
     "Pasted image 20240211203822.png",
     "Pasted image 20240116144250.png",
     "Pasted image 20240128101111.png",
