@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/자율프로젝트/인프라 일지(자율).md",
+                "file": "Area/프론트엔드/ReactNative/학습.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/자율프로젝트/인프라 일지(자율).md",
+                "file": "Area/프론트엔드/ReactNative/학습.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/자율프로젝트/인프라 일지(자율).md",
+                "file": "Area/프론트엔드/ReactNative/학습.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/자율프로젝트/인프라 일지(자율).md"
+                "file": "Area/프론트엔드/ReactNative/학습.md"
               }
             }
           }
@@ -177,8 +177,22 @@
   },
   "active": "f554b608cec4d691",
   "lastOpenFiles": [
+    "Area/특화프로젝트/프론트엔드 일지.md",
     "Area/특화프로젝트/인프라 일지.md",
+    "Area/특화프로젝트/백엔드 일지.md",
+    "Area/프론트엔드/ReactNative/학습.md",
+    "Area/자율프로젝트/프론트엔드 일지.md",
+    "Area/프론트엔드/ReactNative",
     "Area/자율프로젝트/인프라 일지(자율).md",
+    "Area/프로그래밍개념/리팩토링.md",
+    "Area/프로그래밍개념/웹 훅.md",
+    "Area/프로그래밍개념/REST.md",
+    "Area/프로그래밍개념/SOAP.md",
+    "Area/인프라/Redis.md",
+    "Pasted image 20240425091904.png",
+    "Pasted image 20240425091843.png",
+    "Area/인프라/NGINX.md",
+    "Pasted image 20240424141345.png",
     "Area/자율프로젝트/중간발표.md",
     "Area/프론트엔드/테스트코드 작성법.md",
     "Area/자율프로젝트",
@@ -208,21 +222,7 @@
     "Area/프로그래밍개념/IDE.md",
     "Area/소프트웨어 개발/스크럼.md",
     "Area/소프트웨어 개발/소프트웨어 개발.md",
-    "Area/소프트웨어 개발/Agile Software Development.md",
     "Area/소프트웨어 개발",
-    "Area/특화프로젝트/프론트엔드 일지.md",
-    "Area/데일리컨텐츠/마지막으로 하고 싶은 말 있으면 하세요.md",
-    "Area/특화프로젝트/백엔드 일지.md",
-    "Area/프로젝트/공통 프로젝트 평가.md",
-    "Area/기타/메모 - 종례 등.md",
-    "Area/인프라/Redis.md",
-    "Area/기타/무제 파일.md",
-    "Area/프로젝트/웹 큐레이팅.md",
-    "Area/프로젝트/열품타.md",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main1874.java",
-    "Pasted image 20240211203822.png",
-    "Pasted image 20240116144250.png",
-    "Pasted image 20240128101111.png",
     "Area/프론트엔드/무제 파일.canvas",
     "무제 파일.canvas"
   ]
