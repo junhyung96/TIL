@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md",
+                "file": "Area/자율프로젝트/인프라 일지(자율).md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md",
+                "file": "Area/자율프로젝트/인프라 일지(자율).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md",
+                "file": "Area/자율프로젝트/인프라 일지(자율).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md"
+                "file": "Area/자율프로젝트/인프라 일지(자율).md"
               }
             }
           }
@@ -175,14 +175,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4425823cb8be97f2",
+  "active": "f554b608cec4d691",
   "lastOpenFiles": [
-    "Area/특화프로젝트/중간발표.md",
-    "Area/특화프로젝트/프론트엔드 일지.md",
     "Area/자율프로젝트/프론트엔드 일지.md",
-    "Area/프론트엔드/ReactNative/학습.md",
+    "Area/자율프로젝트/중간발표.md",
     "Area/자율프로젝트/인프라 일지(자율).md",
     "Area/특화프로젝트/인프라 일지.md",
+    "Area/특화프로젝트/중간발표.md",
+    "Area/특화프로젝트/프론트엔드 일지.md",
+    "Area/프론트엔드/ReactNative/학습.md",
     "Area/특화프로젝트/백엔드 일지.md",
     "Area/프론트엔드/ReactNative",
     "Area/프로그래밍개념/리팩토링.md",
@@ -194,7 +195,6 @@
     "Pasted image 20240425091843.png",
     "Area/인프라/NGINX.md",
     "Pasted image 20240424141345.png",
-    "Area/자율프로젝트/중간발표.md",
     "Area/프론트엔드/테스트코드 작성법.md",
     "Area/자율프로젝트",
     "images/Pasted image 20240418140902.png",
