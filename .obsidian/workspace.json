@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/자율프로젝트/인프라 일지(자율).md",
+                "file": "Area/데일리컨텐츠/Core Web Vitals.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/자율프로젝트/인프라 일지(자율).md",
+                "file": "Area/데일리컨텐츠/Core Web Vitals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/자율프로젝트/인프라 일지(자율).md",
+                "file": "Area/데일리컨텐츠/Core Web Vitals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/자율프로젝트/인프라 일지(자율).md"
+                "file": "Area/데일리컨텐츠/Core Web Vitals.md"
               }
             }
           }
@@ -177,9 +177,10 @@
   },
   "active": "f554b608cec4d691",
   "lastOpenFiles": [
+    "Area/자율프로젝트/인프라 일지(자율).md",
+    "Area/데일리컨텐츠/Core Web Vitals.md",
     "Area/자율프로젝트/프론트엔드 일지.md",
     "Area/자율프로젝트/중간발표.md",
-    "Area/자율프로젝트/인프라 일지(자율).md",
     "Area/특화프로젝트/인프라 일지.md",
     "Area/특화프로젝트/중간발표.md",
     "Area/특화프로젝트/프론트엔드 일지.md",
@@ -221,7 +222,6 @@
     "Area/프론트엔드/Kotlin/기본개념.md",
     "Area/프론트엔드/Kotlin",
     "Area/프로그래밍개념/IDE.md",
-    "Area/소프트웨어 개발/스크럼.md",
     "Area/소프트웨어 개발",
     "Area/프론트엔드/무제 파일.canvas",
     "무제 파일.canvas"
