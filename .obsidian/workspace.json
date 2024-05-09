@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "94c3ebf2ea8951f7",
+        "id": "6846d0a8008cbf5c",
         "type": "tabs",
         "children": [
           {
-            "id": "5533cb2d4485231b",
+            "id": "f554b608cec4d691",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프로젝트/기록.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b0fcc79c0d9e680",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "faa48ccc9485ea7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md",
+                "file": "Area/자율프로젝트/인프라 일지(자율).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md",
+                "file": "Area/자율프로젝트/인프라 일지(자율).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md",
+                "file": "Area/자율프로젝트/인프라 일지(자율).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/특화프로젝트/인프라 일지.md"
+                "file": "Area/자율프로젝트/인프라 일지(자율).md"
               }
             }
           }
@@ -200,14 +175,41 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "faa48ccc9485ea7e",
+  "active": "f554b608cec4d691",
   "lastOpenFiles": [
-    "Area/안드로이드 개발/시작하기.md",
-    "알고리즘 문제 풀이/BOJ/차이를_최대로.py",
-    "Area/프론트엔드/UI,UX.md",
-    "Area/플러터/시작하기.md",
-    "Area/안드로이드 개발",
-    "알고리즘 문제 풀이/BOJ/BOJ_Java/src/Main18891.java",
+    "Area/자율프로젝트/프론트엔드 일지.md",
+    "Area/자율프로젝트/중간발표.md",
+    "Area/자율프로젝트/인프라 일지(자율).md",
+    "Area/특화프로젝트/인프라 일지.md",
+    "Area/특화프로젝트/중간발표.md",
+    "Area/특화프로젝트/프론트엔드 일지.md",
+    "Area/프론트엔드/ReactNative/학습.md",
+    "Area/특화프로젝트/백엔드 일지.md",
+    "Area/프론트엔드/ReactNative",
+    "Area/프로그래밍개념/리팩토링.md",
+    "Area/프로그래밍개념/웹 훅.md",
+    "Area/프로그래밍개념/REST.md",
+    "Area/프로그래밍개념/SOAP.md",
+    "Area/인프라/Redis.md",
+    "Pasted image 20240425091904.png",
+    "Pasted image 20240425091843.png",
+    "Area/인프라/NGINX.md",
+    "Pasted image 20240424141345.png",
+    "Area/프론트엔드/테스트코드 작성법.md",
+    "Area/자율프로젝트",
+    "images/Pasted image 20240418140902.png",
+    "images/Pasted image 20240418140916.png",
+    "images/Pasted image 20240418141157.png",
+    "images/Pasted image 20240418141135.png",
+    "images/Pasted image 20240418141127.png",
+    "Pasted image 20240418140652.png",
+    "Area/인프라/CICD.md",
+    "Area/인프라/정보.md",
+    "Area/프로젝트/기록.md",
+    "Area/프론트엔드/Next.js.md",
+    "Area/데일리컨텐츠/CSR vs SSR.md",
+    "Area/데일리컨텐츠/SPA.md",
+    "Area/데일리컨텐츠/REST.md",
     "알고리즘 문제 풀이/BOJ/커피숍_2.py",
     "알고리즘 문제 풀이/BOJ/커피숍_2.c",
     "알고리즘 문제 풀이/BOJ/주사위_굴리기.py",
@@ -219,34 +221,7 @@
     "Area/프론트엔드/Kotlin",
     "Area/프로그래밍개념/IDE.md",
     "Area/소프트웨어 개발/스크럼.md",
-    "Area/소프트웨어 개발/소프트웨어 개발.md",
-    "Area/소프트웨어 개발/Agile Software Development.md",
-    "Area/특화프로젝트/인프라 일지.md",
-    "Area/특화프로젝트/프론트엔드 일지.md",
-    "Area/특화프로젝트/데일리컨텐츠/마지막으로 하고 싶은 말 있으면 하세요.md",
-    "Area/특화프로젝트/백엔드 일지.md",
-    "Area/프로젝트/기록.md",
-    "Area/프로젝트/공통 프로젝트 평가.md",
-    "Area/기타/메모 - 종례 등.md",
-    "Area/인프라/Redis.md",
-    "Area/기타/무제 파일.md",
-    "Area/프로젝트/웹 큐레이팅.md",
-    "Area/프로젝트/열품타.md",
-    "Area/프로젝트/역할분배.md",
-    "Area/프로젝트/아키텍처 설계.md",
-    "Area/프로젝트/아이디어 구상.md",
-    "Area/프로젝트/메모.md",
-    "Area/프로젝트/리액트 컴포넌트 구성.md",
-    "Area/프로젝트/비대면 수산물 경매 시스템.md",
-    "Pasted image 20240211203822.png",
-    "Pasted image 20240116144250.png",
-    "Pasted image 20240128101111.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_world.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_word.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_zip.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_wrench.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_word.png",
-    "LearnReact/node_modules/serve-index/public/icons/page_white_world.png",
+    "Area/소프트웨어 개발",
     "Area/프론트엔드/무제 파일.canvas",
     "무제 파일.canvas"
   ]
