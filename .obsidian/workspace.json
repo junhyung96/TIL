@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/데일리컨텐츠/Core Web Vitals.md",
+                "file": "Area/인프라/ubuntu/명령어 모음.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8aca8fe6274c744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/특화프로젝트/인프라 일지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "482f8ca288df768f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/자율프로젝트/인프라 일지(자율).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "right": {
     "id": "625d2063fbf2f3c3",
@@ -124,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/데일리컨텐츠/Core Web Vitals.md",
+                "file": "Area/특화프로젝트/인프라 일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/데일리컨텐츠/Core Web Vitals.md",
+                "file": "Area/특화프로젝트/인프라 일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/데일리컨텐츠/Core Web Vitals.md"
+                "file": "Area/특화프로젝트/인프라 일지.md"
               }
             }
           }
@@ -175,17 +201,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f554b608cec4d691",
+  "active": "e8aca8fe6274c744",
   "lastOpenFiles": [
+    "Area/자율프로젝트/인프라 일지(자율).md",
+    "Area/특화프로젝트/인프라 일지.md",
+    "Area/인프라/ubuntu/명령어 모음.md",
+    "Area/인프라/도커 컨테이너 - 젠킨스 설치.md",
+    "Area/인프라/ubuntu",
+    "Area/데일리컨텐츠/Core Web Vitals.md",
     "알고리즘 문제 풀이/BOJ/수열_정렬.py",
     "알고리즘 문제 풀이/BOJ/접두사.py",
     "Area/안드로이드 개발/시작하기.md",
     "Area/안드로이드 개발",
-    "Area/자율프로젝트/인프라 일지(자율).md",
-    "Area/데일리컨텐츠/Core Web Vitals.md",
     "Area/자율프로젝트/프론트엔드 일지.md",
     "Area/자율프로젝트/중간발표.md",
-    "Area/특화프로젝트/인프라 일지.md",
     "Area/특화프로젝트/중간발표.md",
     "Area/특화프로젝트/프론트엔드 일지.md",
     "Area/프론트엔드/ReactNative/학습.md",
@@ -220,9 +249,6 @@
     "알고리즘 문제 풀이/BOJ/주사위_굴리기.py",
     "알고리즘 문제 풀이/BOJ/근손실.py",
     "images/scrum.png",
-    "images",
-    "Area/플러터/시작하기.md",
-    "Area/플러터",
     "Area/프론트엔드/무제 파일.canvas",
     "무제 파일.canvas"
   ]
