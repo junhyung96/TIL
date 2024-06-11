@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프론트엔드/Javascript/TDD/TDD가 필요한 이유.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프론트엔드/Javascript/TDD/TDD가 필요한 이유.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/프론트엔드/Javascript/TDD/TDD가 필요한 이유.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/프론트엔드/Javascript/TDD/TDD가 필요한 이유.md"
+                "file": "README.md"
               }
             }
           }
@@ -190,11 +190,12 @@
   },
   "active": "b364228254070bb9",
   "lastOpenFiles": [
+    "Pasted image 20240425091904.png",
+    "Area/프론트엔드/Javascript/TDD/TDD가 필요한 이유.md",
     "Area/프론트엔드/Javascript/TDD/테스트 프레임워크.md",
     "Area/프론트엔드/Javascript/TDD/재스민.md",
     "Area/프론트엔드/Javascript/TDD/TDD란.md",
     "Area/프론트엔드/Javascript/TDD/단위 테스트.md",
-    "Area/프론트엔드/Javascript/TDD/TDD가 필요한 이유.md",
     "Area/프론트엔드/Javascript/변수.md",
     "Area/프론트엔드/Javascript/TDD",
     "Area/인프라/ubuntu/명령어 모음.md",
@@ -219,7 +220,6 @@
     "Area/프로그래밍개념/REST.md",
     "Area/프로그래밍개념/SOAP.md",
     "Area/인프라/Redis.md",
-    "Pasted image 20240425091904.png",
     "Pasted image 20240425091843.png",
     "Area/인프라/NGINX.md",
     "Pasted image 20240424141345.png",
@@ -231,7 +231,6 @@
     "images/Pasted image 20240418141135.png",
     "images/Pasted image 20240418141127.png",
     "Pasted image 20240418140652.png",
-    "Area/인프라/CICD.md",
     "알고리즘 문제 풀이/BOJ/커피숍_2.py",
     "알고리즘 문제 풀이/BOJ/커피숍_2.c",
     "알고리즘 문제 풀이/BOJ/주사위_굴리기.py",
