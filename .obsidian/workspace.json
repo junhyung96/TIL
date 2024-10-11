@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/백엔드/Node.js/데이터베이스.md",
+                "file": "Area/104CAL 토이프로젝트/프론트 일지.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/백엔드/Node.js/데이터베이스.md",
+                "file": "Area/104CAL 토이프로젝트/프론트 일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/백엔드/Node.js/데이터베이스.md",
+                "file": "Area/104CAL 토이프로젝트/프론트 일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/백엔드/Node.js/데이터베이스.md"
+                "file": "Area/104CAL 토이프로젝트/프론트 일지.md"
               }
             }
           }
@@ -177,8 +177,25 @@
   },
   "active": "c9f46bd611ab3b16",
   "lastOpenFiles": [
-    "Area/백엔드/Node.js/TDD in Node.md",
+    "Area/특화프로젝트/인프라 일지.md",
+    "Area/104CAL 토이프로젝트/프론트 일지.md",
+    "Area/프론트엔드/TypeScript/타입스크립트.md",
+    "Area/104CAL 토이프로젝트",
+    "Area/특화프로젝트/백엔드 일지.md",
+    "Area/자율프로젝트/프론트엔드 일지.md",
+    "Area/자율프로젝트/중간발표.md",
+    "Area/자율프로젝트/인프라 일지(자율).md",
+    "Area/인프라/젠킨스 플러그인.md",
+    "Area/인프라/CICD.md",
+    "Area/특화프로젝트/음성 AI 기술.md",
+    "Area/특화프로젝트/아이디어회의.md",
+    "Area/인프라/Redis.md",
+    "Area/인프라/NGINX.md",
+    "Area/인프라/DNS.md",
+    "Area/인프라/ubuntu/명령어 모음.md",
     "Area/백엔드/Node.js/데이터베이스.md",
+    "Area/프론트엔드/TypeScript",
+    "Area/백엔드/Node.js/TDD in Node.md",
     "Area/백엔드/Node.js/Node.js 프레임워크.md",
     "Area/백엔드/Node.js/Node.js.md",
     "Area/백엔드/Node.js/HTTP 요청.md",
@@ -188,21 +205,6 @@
     "Area/프론트엔드/Javascript/TDD/TDD란.md",
     "Area/프론트엔드/Javascript/TDD/TDD가 필요한 이유.md",
     "Area/프론트엔드/Javascript/TDD/테스트 프레임워크.md",
-    "Area/프론트엔드/Javascript/TDD/재스민.md",
-    "Area/프론트엔드/Javascript/TDD/단위 테스트.md",
-    "Area/백엔드/Node.js/HTTP 상태코드.md",
-    "Area/프론트엔드/Node.js/NPM 명령어.md",
-    "Area/프론트엔드/Node.js/NPM.md",
-    "Area/프론트엔드/Node.js/프로젝트 초기화.md",
-    "Area/프론트엔드/Node.js/프로젝트 명령어.md",
-    "Area/프론트엔드/Node.js/패키지 설치.md",
-    "Area/프론트엔드/Node.js/유의적 버전.md",
-    "Area/프론트엔드/Node.js/버전의 범위.md",
-    "Area/프론트엔드/Javascript/키워드 정리.md",
-    "README.md",
-    "Area/운영체제/런타임 환경.md",
-    "Area/운영체제/런타임.md",
-    "Area/알고리즘/세그먼트 트리.md",
     "Area/운영체제",
     "Area/백엔드/Node.js",
     "Pasted image 20240425091904.png",
@@ -214,14 +216,12 @@
     "Area/프론트엔드/ReactNative",
     "Pasted image 20240425091843.png",
     "Pasted image 20240424141345.png",
-    "Area/자율프로젝트",
     "images/Pasted image 20240418140902.png",
     "images/Pasted image 20240418140916.png",
     "images/Pasted image 20240418141157.png",
     "images/Pasted image 20240418141135.png",
     "images/Pasted image 20240418141127.png",
     "Pasted image 20240418140652.png",
-    "알고리즘 문제 풀이/BOJ/커피숍_2.py",
     "images/scrum.png",
     "Area/프론트엔드/무제 파일.canvas",
     "무제 파일.canvas"
