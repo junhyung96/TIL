@@ -13,13 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Area/특화프로젝트/인프라 일지.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "인프라 일지"
+            }
+          },
+          {
+            "id": "b18375dc1051ce62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Area/104CAL 토이프로젝트/프론트 일지.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "프론트 일지"
+            }
+          },
+          {
+            "id": "6739acb2e3b01d23",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
+            "id": "edd024395e0151bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "7fe1d0fa06fd35cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/프론트엔드/Javascript/TDD/TDD란.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TDD란"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -39,7 +94,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -54,7 +111,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -74,7 +135,9 @@
                 "file": "Area/프론트엔드/React/리액트 훅.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "리액트 훅"
             }
           }
         ]
@@ -99,7 +162,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -107,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "google-calendar-view-day",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           },
           {
@@ -115,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "google-calendar-view-schedule",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           },
           {
@@ -132,7 +201,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "프론트 일지의 백링크"
             }
           },
           {
@@ -144,7 +215,9 @@
                 "file": "Area/104CAL 토이프로젝트/프론트 일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "프론트 일지의 나가는 링크"
             }
           },
           {
@@ -154,7 +227,9 @@
               "type": "outline",
               "state": {
                 "file": "Area/104CAL 토이프로젝트/프론트 일지.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "프론트 일지 개요"
             }
           }
         ],
@@ -170,41 +245,41 @@
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c9f46bd611ab3b16",
+  "active": "edd024395e0151bd",
   "lastOpenFiles": [
-    "Area/특화프로젝트/인프라 일지.md",
+    "Area/특화프로젝트/백엔드 일지.md",
+    "Area/프론트엔드/Javascript/TDD/TDD란.md",
+    "Area/프론트엔드/Javascript/변수.md",
+    "Area/프론트엔드/Javascript/콜백함수.md",
+    "Area/프론트엔드/Javascript/키워드 정리.md",
+    "Area/프론트엔드/Javascript/파일 구조.md",
+    "Area/프론트엔드/Javascript/TDD/단위 테스트.md",
+    "Area/프론트엔드/Javascript/TDD/재스민.md",
+    "Area/프론트엔드/Javascript/TDD/테스트 프레임워크.md",
+    "Area/프론트엔드/Javascript/TDD/TDD가 필요한 이유.md",
     "Area/104CAL 토이프로젝트/프론트 일지.md",
+    "Area/특화프로젝트/인프라 일지.md",
+    "Area/프론트엔드/테스트코드 작성법.md",
+    "Area/특화프로젝트/음성 AI 기술.md",
+    "Area/특화프로젝트/아이디어회의.md",
     "Area/프론트엔드/TypeScript/타입스크립트.md",
     "Area/104CAL 토이프로젝트",
-    "Area/특화프로젝트/백엔드 일지.md",
     "Area/자율프로젝트/프론트엔드 일지.md",
     "Area/자율프로젝트/중간발표.md",
     "Area/자율프로젝트/인프라 일지(자율).md",
     "Area/인프라/젠킨스 플러그인.md",
     "Area/인프라/CICD.md",
-    "Area/특화프로젝트/음성 AI 기술.md",
-    "Area/특화프로젝트/아이디어회의.md",
     "Area/인프라/Redis.md",
     "Area/인프라/NGINX.md",
     "Area/인프라/DNS.md",
     "Area/인프라/ubuntu/명령어 모음.md",
     "Area/백엔드/Node.js/데이터베이스.md",
     "Area/프론트엔드/TypeScript",
-    "Area/백엔드/Node.js/TDD in Node.md",
-    "Area/백엔드/Node.js/Node.js 프레임워크.md",
-    "Area/백엔드/Node.js/Node.js.md",
-    "Area/백엔드/Node.js/HTTP 요청.md",
-    "Area/백엔드/Node.js/HTTP 메서드.md",
-    "Area/백엔드/Node.js/ExpressJS.md",
-    "Area/프론트엔드/Node.js/Node.js 가 필요한 이유.md",
-    "Area/프론트엔드/Javascript/TDD/TDD란.md",
-    "Area/프론트엔드/Javascript/TDD/TDD가 필요한 이유.md",
-    "Area/프론트엔드/Javascript/TDD/테스트 프레임워크.md",
     "Area/운영체제",
     "Area/백엔드/Node.js",
     "Pasted image 20240425091904.png",
